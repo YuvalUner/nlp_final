@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 def main():
-    story = Story("Pudding thief")
+    story = Story("Rescuing the princess from the dragon")
 
     # story.base_version = ("After an exhausting week at work, John went star gazing. While doing that,"
     #                       "he saw a star growing bigger and bigger, coming straight for him, and said:")
@@ -42,44 +42,57 @@ def main():
     #                        "Seeing that, John said:"
     #                        )
 
-    # story.base_version = ("Coming home from picking up groceries, John entered the living room and saw his roommate, Jane."
-    #                       "Seeing what she was doing, he said:")
-    # story.add_possible_remark("That looks fun, mind if I join you?", False,
-    #                           "John is simply asking if he can join Jane in whatever she is doing")
-    # story.add_possible_remark("Mind helping me with the groceries?", False,
-    #                           "John is asking Jane to help him with the groceries,"
-    #                           " which is a normal thing to ask of a roommate. Whatever Jane was doing is irrelevant in this context")
-    # story.add_possible_remark("Why are you always like this?", False,
-    #                           "John is exasperated with Jane's behavior, which seems to be a recurring issue,"
-    #                           "but it is not necessarily a sarcastic remark")
-    # story.add_possible_remark("So, did I forget to take my pills today, or did you?", True,
-    #                           "John is implying that whatever Jane is doing, it is so absurd that it makes him question either "
-    #                           "his own sanity or hers")
-    # story.detailed_version = ("John went to pick up some groceries for himself and his roomate, Jane, which took him a while."
-    #                           "When he came back home, as he headed to the living room, he heard some noises coming from there."
-    #                           "Knowing his roommate, he braced himself for the worst and entered the living room."
-    #                           "When he saw what she was doing, he said:")
-    # story.novel_version = ("John had been out to pick up some groceries for himself and his roommate, Jane."
-    #                        "It was a long and arduous task, leading to an epic saga of survival, perseverance, determination,"
-    #                        "a battle against the elements and against human nature itself, but he achieved victory nonetheless "
-    #                        "and came back home with the groceries."
-    #                        "Following his triumphant return, he opened the entryway door,"
-    #                        "and as he did so, he heard some noises coming from the living room."
-    #                        "John knew his roommate, Jane, and he knew that whatever she was doing, it was going to truly "
-    #                        "be something."
-    #                        "And so, taking deep breaths and bracing himself for the worst, he entered the living room."
-    #                        "Upon entering the living room and seeing what Jane was doing, he said:"
-    #                        )
+    # story.base_version = ("Hunting down the dragon that is thought to have kidnapped the princess, the knight finally "
+    #                       "reached the dragon's castle. The knight condemned the dragon for his crime, to which the "
+    #                       "dragon responded:")
+    # story.add_possible_remark("Your princess is in another castle.", False, "This is a reference to the Super Mario game series,"
+    #                                                                         "where the princess is always in another castle")
+    # story.add_possible_remark("Yeah, I'm not the kidnapper, it's some other dragon. You should leave.", False, "The dragon is"
+    #                                                                                          "either really innocent or just"
+    #                                                                                          "playing dumb")
+    # story.add_possible_remark("Hey, I'm just trying to make a living here. Do you how lucrative princess kidnapping is?",
+    #                           False, "The dragon is just trying to make a living,"
+    #                                  "and princess kidnapping may really be a lucrative business. There isn't "
+    #                                  "necessarily any sarcasm here")
+    # story.add_possible_remark("Oh, now that you say that, I realize how terrible that was. I am ever so sorry.", True,
+    #                           "The dragon is being sarcastic here, as it is highly unlikely that the dragon is"
+    #                           " actually sorry for kidnapping the princess after just being condemned for it by the knight")
+    # story.detailed_version = ("""
+    # The knight had been on a quest to rescue the princess for weeks now.
+    # He had faced many challenges and fought many battles, but he had finally reached the castle where the
+    # dragon who was said to have kidnapped the princess lived.
+    # Upon entering the castle and confronting the dragon, the knight condemned the dragon for his crime.
+    # The dragon, however, responded in a way that the knight did not expect, saying:
+    # """)
+    # story.novel_version = (
+    #     """
+    #     A tragedy had befallen the kingdom. The princess had been kidnapped by a fearsome dragon, and the king had
+    #     dispatched his bravest and mightiest knight to rescue her.
+    #     The knight had faced many dangers and perils on his journey, overcoming countless obstacles in his path,
+    #     surpassing his limit many times over, vanquishing all evil that stood in his way.
+    #     And now, after a long and arduous journey, the knight had finally reached the dragon's castle.
+    #     The castle loomed before him, a dark and foreboding structure, its walls towering high above him, its gates
+    #     hiding behind them what may well be the most fearsome creature in all the land.
+    #     Gathering his courage, the knight entered the castle, his sword drawn, his shield raised, ready to face
+    #     whatever lay ahead.
+    #     And there, in the heart of the castle, he found the dragon.
+    #     The dragon, a massive and terrifying beast, stood before him, its scales gleaming in the dim light, its eyes
+    #     a molten gold, each larger than he is tall, its claws sharp and daggers, and the very air around it seemed to
+    #     tremble with its presence.
+    #     The knight, undaunted, condemned the dragon for its crime, accusing it of kidnapping the princess and bringing
+    #     sorrow and despair to the kingdom.
+    #     The dragon, however, responded in a way that the knight did not expect, saying:
+    #     """
+    #     )
 
     story_collection = StoryCollection()
 
     story_collection.load_stories_from_json("stories")
+    # story_collection.add_story(story)
 
     # story_collection.add_story(story)
     story_collection.save_stories_as_json("stories")
     print(story_collection)
-    print(story_collection.stories[0])
-    print(story_collection.stories[1])
 
 
 
