@@ -91,7 +91,7 @@ def main():
     # story_collection.add_story(story)
 
     # story_collection.add_story(story)
-    story_collection.save_stories_as_json("stories")
+    # story_collection.save_stories_as_json("stories")
     print(story_collection)
 
 
