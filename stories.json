@@ -346,5 +346,324 @@
       ]
     ],
     "sarcastic_index": -1
+  },
+  {
+    "title": "Butterfly Effect Mishap",
+    "base_version": "While attempting to catch a butterfly, John accidentally caused a chain reaction that led to a major city-wide power outage. He exclaimed:",
+    "detailed_version": "\n        In a whimsical moment of attempting to catch a delicate butterfly, John inadvertently set off a chain reaction of events that culminated in a catastrophic city-wide power outage. Shocked and bewildered by the unintended consequences of his actions, he exclaimed:\n        ",
+    "novel_version": "\n        It was a serene afternoon, with the sun casting a golden glow over the tranquil park. Entranced by the graceful flutter of a butterfly, John reached out in a playful attempt to capture its beauty. Little did he know, his seemingly innocent gesture would unleash a cascade of events that would plunge the entire city into darkness. As chaos erupted around him and the magnitude of his unintended actions dawned upon him, he could only muster a stunned exclamation:\n        ",
+    "possible_remarks": [
+      [
+        "I've heard of the butterfly effect, but this is ridiculous.",
+        false,
+        "John is making a reference to the butterfly effect, which is a common theme in chaos theory, and the situation is indeed ridiculous"
+      ],
+      [
+        "HOW DID THIS HAPPEN? I JUST WANTED TO CATCH A BUTTERFLY!",
+        false,
+        "John is pretty understandably bewildered by the situation, but there's no hint of sarcasm"
+      ],
+      [
+        "From butterfly catcher to most wanted criminal, all in a day's work. Well done me.",
+        true,
+        "John's remark about being a criminal is clearly sarcastic, as he didn't intend to cause a power outage and become a criminal, and definitely didn't expect it"
+      ],
+      [
+        "I should have just stayed home today.",
+        false,
+        "John is expressing regret at his actions, but there's no hint of sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Time-Traveling Mishap",
+    "base_version": "Experimenting with a homemade time machine, John accidentally transported himself to ancient Egypt. He muttered to himself:",
+    "detailed_version": "\n        In a daring experiment with his makeshift time machine, John found himself thrust into the distant past of ancient Egypt. Shocked and disoriented by the unexpected journey through time, he muttered to himself:\n        ",
+    "novel_version": "\n        Armed with little more than his ingenuity and a desire for adventure, John embarked on a bold experiment with his homemade time machine. But as the device whirred to life, he was whisked away from the familiarity of the present and deposited amidst the sands of ancient Egypt. Surrounded by towering pyramids and bustling markets of a bygone era, he could scarcely believe his eyes. Overwhelmed by the enormity of his temporal leap, he muttered to himself:\n        ",
+    "possible_remarks": [
+      [
+        "Oh no, how did I mess up this badly?",
+        false,
+        "John reflects on his oversight without sarcasm"
+      ],
+      [
+        "Oh, I needed a vacation anyway, so this is totally, totally, absolutely, perfectly fine.",
+        true,
+        "John's remark about needing a vacation is clearly sarcastic, as being transported to ancient Egypt is not a typical vacation. Also, using multiple intensifiers like 'totally' and 'absolutely' is a common sarcastic technique"
+      ],
+      [
+        "Oh, this might mess up the timeline. I should worry about that, right?",
+        false,
+        "John is expressing concern about the consequences of his time-traveling mishap, but there's no hint of sarcasm"
+      ],
+      [
+        "This is a dream, right? I'm going to wake up any moment now, right?",
+        false,
+        "John is understandably panicked and trying to make sense of his situation, but there's no hint of sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Unexpected Lottery Win",
+    "base_version": "Checking his lottery ticket, John realized he won the jackpot but lost the ticket in excitement. He muttered to himself:",
+    "detailed_version": "\n        Double-checking his lottery ticket numbers, John's eyes widened in disbelief as he realized he had matched all the numbers, winning the jackpot. Overcome with excitement, he jumped up and down, only to feel a sinking sensation as he realized the ticket was nowhere to be found. Muttering to himself in frustration, he said:\n        ",
+    "novel_version": "\n        With bated breath, John scrutinized each number on his lottery ticket, scarcely daring to believe his eyes. Yet there it was, in black and white - the winning combination that would change his life forever. Jubilant shouts of victory escaped his lips as he danced around the room in ecstatic celebration. However, as the initial rush of triumph subsided, a sinking feeling gripped him as he realized the ticket was missing from his grasp. Muttering under his breath in frustration, he said:\n        ",
+    "possible_remarks": [
+      [
+        "Of course, I win the lottery and lose the ticket in the same moment. That's just my luck.",
+        false,
+        "John reflects on his luck without sarcasm"
+      ],
+      [
+        "Ah, ofcourse, I even manage to mess up winning the lottery. I truly am a prodigy.",
+        true,
+        "John's remark about being a prodigy is clearly sarcastic, as messing up winning the lottery is not a sign of prodigious talent"
+      ],
+      [
+        "Maybe they'll still give me the money if I tell them I won. It's worth a shot, right?",
+        false,
+        "John is in denial and desperate to find a solution, but there's no hint of sarcasm"
+      ],
+      [
+        "Oh, no. I'll have to retrace my steps and hope for the best.",
+        false,
+        "John formulates a plan to find the ticket without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Summoning Spell Gone Awry",
+    "base_version": "Attempting to summon a helpful spirit, John accidentally summoned a mischievous imp instead. He muttered to himself:",
+    "detailed_version": "In a dimly lit room adorned with mystical artifacts, John carefully traced arcane symbols on the floor, attempting to summon a helpful spirit to aid him in his quest. However, as the incantation reached its climax, a surge of magical energy erupted, and instead of the benevolent spirit he had hoped for, a mischievous imp materialized before him. Startled and bewildered by the unexpected turn of events, John muttered to himself:",
+    "novel_version": "Seeking guidance in his quest for knowledge, John ventured into the depths of an ancient library hidden within the heart of a dense forest. Surrounded by towering shelves filled with ancient tomes, he meticulously prepared for the ritual, inscribing intricate runes upon the ground and lighting candles to illuminate the dim chamber. With a steady hand and a focused mind, he invoked the ancient incantation, calling forth a spirit to impart its wisdom upon him. Yet, as the ethereal energies swirled and coalesced, a burst of chaotic magic erupted, and before him stood not the wise sage he had envisioned, but a mischievous imp, grinning impishly at the bewildered wizard. Surprised and disconcerted by the unexpected turn of events, John muttered to himself:",
+    "possible_remarks": [
+      [
+        "I summon a spirit for wisdom, and I get a trickster imp instead. Just my luck.",
+        false,
+        "John reflects on his luck without sarcasm"
+      ],
+      [
+        "Ah, of course. Because what I really needed right now was a mischievous imp wreaking havoc in my life. Brilliant.",
+        true,
+        "John's remark about needing an imp wreaking havoc in his life is clearly sarcastic, as he obviously didn't want or need that"
+      ],
+      [
+        "Maybe I can convince it to help me anyway. It's worth a shot, right?",
+        false,
+        "John is hoping to find some positive outcome from the situation, but there's no hint of sarcasm"
+      ],
+      [
+        "Well, time to figure out how to banish an imp back to wherever it came from.",
+        false,
+        "John formulates a plan to banish the imp without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Enchanted Forest Encounter",
+    "base_version": "Exploring the depths of the enchanted forest, John stumbled upon a hidden glade inhabited by whimsical fairies. He remarked:",
+    "detailed_version": "Venturing deeper into the heart of the enchanted forest, John stumbled upon a hidden glade bathed in ethereal light, where whimsical fairies flitted among the shimmering foliage. Enraptured by the enchanting sight before him, he couldn't help but remark:",
+    "novel_version": "Guided by an inexplicable sense of curiosity, John ventured into the depths of the enchanted forest, where ancient trees whispered secrets and mystical creatures roamed freely. As he traversed the verdant pathways, he stumbled upon a hidden glade bathed in the soft glow of luminescent mushrooms, where whimsical fairies danced on the air with graceful elegance. Mesmerized by the ethereal beauty unfolding before him, he couldn't help but marvel:",
+    "possible_remarks": [
+      [
+        "Oh, I thought fairies were extinct. What a brilliant discovery!",
+        false,
+        "John expresses his surprise and wonder without sarcasm"
+      ],
+      [
+        "So, am I getting cursed or blessed today? Can never tell with fairies.",
+        false,
+        "John is expressing curiosity and uncertainty about the fairies' intentions without sarcasm"
+      ],
+      [
+        "So... are these the friendly fairies, or the 'eat you alive' kind?",
+        false,
+        "John is expressing concern and caution without sarcasm"
+      ],
+      [
+        "Ah, of course. Just another day in the enchanted forest, meeting fairies. Totally normal.",
+        true,
+        "By all of the context given in the story, meeting fairies is anything but normal, so John's remark is clearly sarcastic"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Dragon Encounter",
+    "base_version": "Roaming the countryside, John stumbled upon a majestic dragon basking in the sun. He muttered:",
+    "detailed_version": "Wandering through the vast countryside, John stumbled upon a clearing where a majestic dragon lounged in the warm sunlight. Awe-struck by the sight of the mythical creature before him, he couldn't help but mutter:",
+    "novel_version": "Venturing far beyond the confines of civilization, John embarked on a journey through the untamed wilderness, where towering mountains and lush valleys stretched as far as the eye could see. Amidst his travels, he stumbled upon a secluded glen, where a mighty dragon lay sprawled, its scales glistening in the golden rays of the sun. Captivated by the awe-inspiring presence of the mythical beast, he couldn't contain his astonishment and muttered:",
+    "possible_remarks": [
+      [
+        "Please, oh please don't notice me. I'm just a humble traveler passing through.",
+        false,
+        "John is expressing his desire to remain unnoticed and thus also alive without sarcasm"
+      ],
+      [
+        "Ah, getting roasted and becoming dragon food. What a perfect way to go.",
+        true,
+        "John's remark about being roasted and becoming dragon food is clearly sarcastic, as it is definitely not a perfect way to die, and people in general don't want to be eaten by dragons"
+      ],
+      [
+        "If there's a dragon around, their treasure must be close by. Time to get rich!",
+        false,
+        "John is making a common fantasy trope observation without sarcasm"
+      ],
+      [
+        "Our battle will be legendary!",
+        false,
+        "This is both an expression of excitement and a reference to Kung Fu Panda, but there's no hint of sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Lost in the Labyrinth",
+    "base_version": "Exploring an ancient labyrinth, John found himself hopelessly lost. He muttered to himself:",
+    "detailed_version": "Delving into the depths of an ancient labyrinth, John soon found himself entangled in its twisting passages, with no discernible path to follow. Frustration mounting with each futile attempt to navigate the maze, he muttered to himself:",
+    "novel_version": "Driven by a thirst for adventure, John ventured into the heart of an ancient labyrinth, where the very walls seemed to shift and change with every step he took. Lost amidst the labyrinth's intricate network of passages and chambers, he struggled to find his way out, his sense of direction becoming increasingly distorted with each passing moment. Grappling with the overwhelming maze, he muttered under his breath:",
+    "possible_remarks": [
+      [
+        "So, what's gonna come first? Starvation or killing myself out of frustration? Let's find out!",
+        true,
+        "John's remark is clearly a sarcastic expression of his frustration and hopelessness, as he doesn't actually want to starve or kill himself"
+      ],
+      [
+        "At this rate, I'm gonna die in here and become another skeletal decoration for the labyrinth.",
+        false,
+        "John is expressing his frustration and hopelessness without sarcasm"
+      ],
+      [
+        "Maybe if I just follow the left wall, I'll eventually find my way out.",
+        false,
+        "John is formulating a plan to navigate the labyrinth without sarcasm"
+      ],
+      [
+        "Maybe I'll find some hidden treasure in here. That would make this whole thing worth it.",
+        false,
+        "John is entertaining the idea of hidden treasures in labyrinths without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Mermaid Encounter",
+    "base_version": "While sailing the open seas, John encountered a group of playful mermaids. He exclaimed:",
+    "detailed_version": "Navigating the vast expanse of the open seas, John's ship sailed into waters teeming with life, where the gentle waves whispered tales of hidden wonders beneath the surface. Suddenly, a group of playful mermaids surfaced, their melodious laughter filling the air. Captivated by the enchanting sight before him, he couldn't help but exclaim:",
+    "novel_version": "Embarking on a maritime adventure across the boundless ocean, John's vessel sliced through the azure waters, leaving a frothy wake in its path. As the salty breeze tousled his hair, he felt the call of the deep beckoning him. In the distance, a shimmering spectacle caught his eye - a troupe of graceful mermaids, their iridescent tails gliding effortlessly through the water. Spellbound by their ethereal beauty, he couldn't contain his excitement and exclaimed:",
+    "possible_remarks": [
+      [
+        "Men, prepare for a hunt! We're getting rich!",
+        false,
+        "John is ordering his crew to prepare to capture the mermaids without sarcasm"
+      ],
+      [
+        "I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!",
+        false,
+        "John is expressing his excitement and willingness to go with the mermaids without sarcasm"
+      ],
+      [
+        "Nope, I must be hallucinating. This ain't real. I need to lay off the rum.",
+        false,
+        "John is expressing his disbelief and attributing the mermaids to a hallucination without sarcasm"
+      ],
+      [
+        "Knowing my amazing luck, this is a kraken in disguise, and we're all about to be eaten.",
+        true,
+        "John's remark about his luck being amazing and the mermaids being a kraken in disguise is clearly sarcastic, as being eaten by a kraken is not a lucky outcome"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Wizard's Tower Discovery",
+    "base_version": "Hiking through the forest, John stumbled upon a towering wizard's tower hidden amidst the trees. He remarked:",
+    "detailed_version": "Traversing the dense foliage of the forest, John's journey led him to a clearing where a towering wizard's tower stood sentinel amidst the ancient trees. Overwhelmed by the aura of mystique emanating from the structure, he couldn't help but remark:",
+    "novel_version": "Venturing into the depths of the primeval forest, John's path veered towards a secluded glade where an imposing wizard's tower loomed tall, its spires piercing the sky. Enthralled by the arcane energy pulsating from the structure, he felt a shiver of excitement coursing through him. Gazing up at the magnificent sight before him, he couldn't resist remarking:",
+    "possible_remarks": [
+      [
+        "Well, this is a fine addition to my list of unexpected discoveries in the forest.",
+        false,
+        "John is acknowledging the novelty of the find without sarcasm"
+      ],
+      [
+        "A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise.",
+        true,
+        "John's remark about the wizard tower not being ominous is clearly sarcastic, as wizard towers in forests are often associated with mystery and danger"
+      ],
+      [
+        "Maybe they'll let me borrow a spellbook if I ask really, really nicely?",
+        false,
+        "John is making a hopeful inquiry about borrowing magical knowledge without sarcasm"
+      ],
+      [
+        "A wizard tower in the forest, how cliché.",
+        false,
+        "John is making an observation about the stereotypical nature of the find without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Goblin Ambush",
+    "base_version": "While hiking through the mountains, John stumbled into an ambush set by a horde of goblins. He exclaimed:",
+    "detailed_version": "Navigating the treacherous terrain of the mountain range, John's expedition took an unexpected turn when he stumbled into a narrow gorge, where a horde of cunning goblins lay in wait, ready to strike. Surrounded on all sides by the nefarious creatures, he couldn't help but exclaim:",
+    "novel_version": "Venturing into the rugged peaks of the towering mountains, John's journey brought him to a desolate pass, where the echoes of his footsteps were drowned out by the sinister whispers of the wind. Suddenly, from the shadows emerged a horde of savage goblins, their eyes gleaming with malice as they closed in on their unsuspecting prey. Trapped amidst the jagged rocks and hostile foes, he couldn't help but exclaim:",
+    "possible_remarks": [
+      [
+        "COME AT ME YOU FOUL BEASTS! I'LL TAKE YOU ALL ON!",
+        false,
+        "John is expressing his defiance and readiness to fight without sarcasm"
+      ],
+      [
+        "Well, this is certainly not how I expected my hike to go.",
+        false,
+        "John is expressing his surprise and disbelief without sarcasm"
+      ],
+      [
+        "Maybe if I give them everything I have, they'll let me go?",
+        false,
+        "John is trying to find a solution to the situation that keeps him alive, without sarcasm"
+      ],
+      [
+        "Oh, fantastic. Dinner and a show - with me as the main course.",
+        true,
+        "John's remark about being the main course in a dinner and a show is clearly sarcastic, as being eaten by goblins is not a desirable outcome"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Haunted Castle Discovery",
+    "base_version": "Exploring the countryside, John stumbled upon a decrepit castle rumored to be haunted. He remarked:",
+    "detailed_version": "Wandering through the idyllic countryside, John's journey led him to a desolate hill where a decrepit castle stood shrouded in mist, its crumbling battlements bearing silent witness to centuries of forgotten history. Intrigued by the air of mystery surrounding the ancient fortress, he couldn't help but remark:",
+    "novel_version": "Venturing across the verdant expanse of the countryside, John's wanderings brought him to a windswept hill where a dilapidated castle loomed, its timeworn stones echoing with the whispers of restless spirits. Drawn by the siren song of the unknown, he ascended the crumbling steps, his heart pounding with anticipation. Surveying the eerie grandeur of the haunted stronghold before him, he couldn't resist remarking:",
+    "possible_remarks": [
+      [
+        "I sure hope this place is haunted! That would make my day.",
+        false,
+        "John may actually be excited about the prospect of the castle being haunted, so the remark is not necessarily sarcastic"
+      ],
+      [
+        "Hello, haunted castle. I come in peace, please don't eat me, I'm not that tasty.",
+        false,
+        "John is trying to establish a peaceful interaction with the castle's potential inhabitants without sarcasm"
+      ],
+      [
+        "I should absolutely turn back right now. But... where's the fun in that?",
+        false,
+        "John is acknowledging the danger of the situation but is also drawn to the adventure without sarcasm"
+      ],
+      [
+        "Oh, how original. A haunted castle in the middle of nowhere. What's next, a ghostly butler?",
+        true,
+        "John's remark about the haunted castle being original is clearly sarcastic, as haunted castles are a common trope in folklore and fiction"
+      ]
+    ],
+    "sarcastic_index": -1
   }
 ]
