@@ -665,5 +665,295 @@
       ]
     ],
     "sarcastic_index": -1
+  },
+  {
+    "title": "Cursed Crypt Discovery",
+    "base_version": "While exploring ancient ruins, John stumbled upon a crypt rumored to be cursed. He remarked:",
+    "detailed_version": "Delving into the depths of ancient ruins, John's footsteps echoed through the crumbling halls until he reached a foreboding crypt cloaked in shadows. A chill ran down his spine as he beheld the eerie sight before him, and he couldn't help but remark:",
+    "novel_version": "Driven by an insatiable curiosity, John dared to tread where few ventured - the heart of ancient ruins, where forgotten secrets lay entombed. Amidst the crumbling stone and faded murals, he stumbled upon a crypt veiled in darkness, its entrance adorned with ominous symbols. Ignoring the whispers of warning that prickled at his senses, he stepped into the abyss, his heart pounding with trepidation. Confronted by the oppressive silence and palpable aura of malevolence, he couldn't suppress his unease and remarked:",
+    "possible_remarks": [
+      [
+        "I probably should have brought a crucifix or something. Just in case.",
+        false,
+        "John expresses his realization of the potential danger without sarcasm"
+      ],
+      [
+        "Good thing I brought my holy water, I might need it.",
+        false,
+        "John is preparing for the possibility of supernatural encounters without sarcasm"
+      ],
+      [
+        "To disturb or not to disturb the ancient spirits... That is the question.",
+        false,
+        "John is contemplating the consequences of his actions without sarcasm"
+      ],
+      [
+        "Well, this is one for the history books. 'Idiot gets cursed in ancient crypt' - catchy, isn't it?",
+        true,
+        "John's remark about being in the history books for getting cursed is clearly sarcastic, given the absurdity of the situation"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Shadowy Assassins",
+    "base_version": "Caught in the crosshairs of shadowy assassins, John fought for survival in the dark alleyways of the city. He muttered:",
+    "detailed_version": "As darkness fell over the city, John found himself pursued by silent shadows, their daggers glinting in the faint moonlight. With every twist and turn through the labyrinthine alleyways, he fought for his life against the relentless onslaught. Blood pounding in his ears, he muttered under his breath:",
+    "novel_version": "Cloaked in the embrace of night, John became prey to shadowy assassins lurking in the murky depths of the city's underbelly. With blades as swift as the wind, they descended upon him, their faces hidden beneath cowls of darkness. Engulfed in a deadly dance of steel and shadow, he fought tooth and nail for survival, each strike and parry a desperate bid to evade the inevitable. Amidst the chaos and carnage, he muttered through gritted teeth:",
+    "possible_remarks": [
+      [
+        "Come on, show yourselves, you cowards!",
+        false,
+        "John challenges his assailants with genuine defiance and no sarcasm"
+      ],
+      [
+        "This is what I get for not paying my library fines, isn't it?",
+        false,
+        "Given the lack of context, this remark could be seen as sarcastic, but it also be the true reason for the attack"
+      ],
+      [
+        "So, am I gonna be the main character today or a damned redshirt?",
+        true,
+        "John's remark about being a main character or a redshirt is clearly sarcastic, as he's referring to common tropes in storytelling"
+      ],
+      [
+        "If I survive this, I'm going to need more than just stitches.",
+        false,
+        "John acknowledges the severity of his injuries without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Shadowy Forest Encounter",
+    "base_version": "Lost in the depths of the shadowy forest, John encountered a mysterious figure cloaked in darkness. He muttered:",
+    "detailed_version": "Navigating the labyrinthine paths of the shadowy forest, John's senses were assaulted by the oppressive gloom that shrouded his surroundings. Amidst the gnarled trees and twisted vines, a figure emerged from the darkness, its form obscured by a cloak of shadows. Gripped by a sense of foreboding, he couldn't help but mutter:",
+    "novel_version": "Enveloped by the suffocating darkness of the twisted forest, John's steps faltered as he stumbled upon a solitary figure lurking amidst the gnarled roots and tangled undergrowth. Cloaked in shadow, the mysterious entity exuded an aura of menace that sent shivers down his spine. Paralyzed by fear and curiosity, he muttered under his breath, unable to tear his gaze away from the enigmatic presence before him:",
+    "possible_remarks": [
+      [
+        "Please don't eat me. I don't taste very good, I promise.",
+        false,
+        "John expresses his fear and attempts to appeal to the mysterious figure's sense of mercy without sarcasm"
+      ],
+      [
+        "Please make it painless. I have a low pain tolerance.",
+        false,
+        "John has resigned himself to his fate and is trying to make the best of a bad situation without sarcasm"
+      ],
+      [
+        "I should have brought a flashlight.",
+        true,
+        "John's remark about needing a flashlight is sarcastic, as a flashlight wouldn't help in a forest where the darkness is magical or supernatural"
+      ],
+      [
+        "At least I'll have a good story to tell if I survive this.",
+        false,
+        "John acknowledges the potential for a good story without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Dark Ritual Encounter",
+    "base_version": "While trekking through the desolate moors, John stumbled upon a group of cloaked figures performing a sinister ritual. He exclaimed:",
+    "detailed_version": "Traversing the barren expanse of the desolate moors, John's journey led him to a secluded clearing where eerie whispers mingled with the howling wind. There, amidst the swirling mists, cloaked figures gathered around a flickering bonfire, their chanting voices filling the air with dread. Gripped by fear and fascination, he couldn't help but exclaim:",
+    "novel_version": "Venturing into the heart of the forsaken moors, John's steps faltered as he stumbled upon a hidden clearing obscured by dense fog. Within the murky depths, shadowy figures clad in tattered robes congregated around a sinister altar, their chants invoking ancient powers long forgotten. Enshrouded in darkness and despair, he stood frozen in terror, unable to tear his gaze away from the macabre scene unfolding before him. Amidst the palpable aura of malevolence, he couldn't suppress his exclamation:",
+    "possible_remarks": [
+      [
+        "I saw nothing. I know nothing. I'm just a lost traveler, please don't kill me.",
+        false,
+        "John is trying to distance himself from the situation and avoid confrontation without sarcasm"
+      ],
+      [
+        "I don't know what you guys are doing, but I want in.",
+        false,
+        "John wants to join the group performing the ritual, but there's no hint of sarcasm"
+      ],
+      [
+        "So... is this a bad time to ask you guys for directions?",
+        true,
+        "Given the ominous nature of the encounter, John's remark is clearly sarcastic"
+      ],
+      [
+        "Today's about to be a very bad day, isn't it?",
+        false,
+        "John is expressing his realization of the danger he's in without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Alien Artifact Discovery",
+    "base_version": "While exploring an abandoned space station, John stumbled upon a mysterious alien artifact. He exclaimed:",
+    "detailed_version": "Venturing into the depths of the derelict space station, John's footsteps echoed through empty corridors lined with flickering lights. Amidst the eerie silence, he stumbled upon a chamber bathed in an ethereal glow, where a strange alien artifact lay dormant upon a pedestal. Captivated by the enigmatic object before him, he couldn't help but exclaim:",
+    "novel_version": "In the vast expanse of the cosmos, amidst the remnants of a long-forgotten civilization, John found himself drawn to an abandoned space station, its once bustling halls now silent and desolate. As he traversed the labyrinthine corridors, his heart raced with a mixture of trepidation and excitement, his imagination conjuring tales of the station's mysterious past. Finally, he entered a chamber bathed in an eerie blue light, where the air hummed with an otherworldly energy. At its center, atop a pedestal adorned with strange symbols, rested a relic from a bygone era - an alien artifact pulsating with untold power and potential. Mesmerized by its unearthly beauty and the possibilities it held, he couldn't contain his astonishment and exclaimed:",
+    "possible_remarks": [
+      [
+        "I wonder what this thing does. Maybe it's a weapon? Or a portal to another dimension?",
+        false,
+        "John expresses his curiosity and speculation about the alien artifact without sarcasm"
+      ],
+      [
+        "Oh, I'm about to finally be able to buy my own planet, huh?",
+        false,
+        "John is expressing his excitement and anticipation about the artifact's potential value without sarcasm"
+      ],
+      [
+        "So, on a scale of one to 'accidentally triggering an intergalactic war that wipes all life in the universe', how bad is touching this thing?",
+        true,
+        "John's remark is clearly sarcastic, as he exaggerates the potential consequences of touching the artifact"
+      ],
+      [
+        "I should probably be careful with this thing. I don't want to accidentally trigger an intergalactic war or something.",
+        false,
+        "John expresses his caution and awareness of potential consequences without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Space Anomaly Encounter",
+    "base_version": "While charting a course through uncharted space, John encountered a mysterious spatial anomaly. He muttered:",
+    "detailed_version": "Navigating the uncharted depths of space, John's ship sailed through the void, its sensors scanning the cosmos for signs of celestial phenomena. Suddenly, the tranquil silence was shattered by the detection of a spatial anomaly ahead. As the ship approached, the fabric of space itself seemed to warp and twist, casting strange hues of light across the cockpit. Gripped by a sense of unease, he muttered under his breath:",
+    "novel_version": "In the infinite expanse of the cosmos, amidst the vast unknown, John embarked on a daring journey through uncharted space, his ship slicing through the fabric of reality with each warp jump. Yet, as he charted a course through the abyss, his sensors detected a disturbance in the cosmic tapestry - a spatial anomaly unlike any he had encountered before. Drawing closer, the anomaly defied comprehension, its form shifting and pulsating with an eerie luminosity that seemed to defy the laws of physics. As his ship ventured deeper into the anomaly's embrace, the very fabric of space-time seemed to contort and warp, casting surreal reflections across the viewscreen. Overwhelmed by the magnitude of the phenomenon, he couldn't help but mutter in disbelief and trepidation:",
+    "possible_remarks": [
+      [
+        "I am so quitting this job if I survive this.",
+        false,
+        "John is expressing his desire to quit his job due to the extraordinary nature of the encounter without sarcasm"
+      ],
+      [
+        "Now, I ain't no scientist, but I'm pretty sure this ain't normal.",
+        false,
+        "John is making an observation about the anomaly without sarcasm"
+      ],
+      [
+        "Oh, my boss is just gonna love hearing this report.",
+        false,
+        "While the remark may be sarcastic, we do not have enough context to determine if John's boss would actually love hearing about the anomaly or not"
+      ],
+      [
+        "At this point I welcome getting shredded into atoms by this thing. Still better than this job.",
+        true,
+        "John's remark about being shredded into atoms is clearly sarcastic, as dying is not a preferable outcome compared to a job he dislikes"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Temporal Anomaly",
+    "base_version": "During a routine space mission, John's ship encountered a temporal anomaly. He muttered:",
+    "detailed_version": "Engaged in a routine space mission, John's ship cruised through the cosmic expanse, its systems running smoothly as they navigated the vastness of the universe. Suddenly, the tranquility was shattered by the appearance of a swirling vortex of light ahead - a temporal anomaly disrupting the fabric of space-time itself. Alarms blared as the ship was ensnared by the anomaly's gravitational pull, tossing it into the turbulent currents of temporal distortion. Faced with the uncertainty of what lay beyond, John muttered under his breath:",
+    "novel_version": "In the endless tapestry of the cosmos, amidst the twinkling stars and swirling nebulas, John embarked on a routine space mission aboard his trusty vessel, the Nova Voyager. As the ship cruised through the void, its sleek hull cutting through the darkness with precision, the crew conducted their duties with practiced efficiency. Yet, their journey took an unexpected turn when the sensors detected a disturbance in the fabric of space-time - a temporal anomaly of unprecedented magnitude. Before their disbelieving eyes, a swirling vortex of light emerged from the depths of the cosmos, casting an eerie glow across the bridge. With a sense of foreboding, the crew watched as the anomaly expanded, its gravitational tendrils reaching out to ensnare the Nova Voyager in its embrace. As the ship was drawn into the turbulent currents of temporal distortion, John braced himself for the unknown, muttering under his breath:",
+    "possible_remarks": [
+      [
+        "Please tell me we're just all hallucinating this.",
+        false,
+        "John is expressing his disbelief and hope that the anomaly isn't real without sarcasm"
+      ],
+      [
+        "Today on 'nothing ever happens on routine missions', we have a very normal temporal anomaly.",
+        true,
+        "John's remark about nothing ever happening on routine missions and a very normal temporal anomaly is clearly sarcastic, as encountering a temporal anomaly is anything but normal"
+      ],
+      [
+        "If we come out of this alive, I quit.",
+        false,
+        "John is expressing his desire to quit his job due to the extraordinary nature of the encounter without sarcasm"
+      ],
+      [
+        "If I make it out of this, I'm finding whoever planned this mission and shoving my resignation in their face.",
+        false,
+        "John is expressing his frustration and anger without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Interdimensional Portal Discovery",
+    "base_version": "While conducting experiments in his laboratory, John accidentally opened an interdimensional portal. He muttered:",
+    "detailed_version": "In the confines of his laboratory, John toiled away on his latest experiment, the hum of machinery and crackle of energy filling the air. Yet, as he calibrated the quantum oscillators, a miscalculation sent ripples through the fabric of reality itself, tearing open an interdimensional portal in the heart of his workspace. Stunned by the unexpected breach, John could only mutter under his breath:",
+    "novel_version": "In the depths of his laboratory, surrounded by banks of monitors and arrays of scientific equipment, John delved into the mysteries of the universe with unwavering determination. With each adjustment to the quantum resonators, the air crackled with energy, as if the very fabric of reality trembled at his touch. But in a moment of miscalculation, a surge of power surged through the circuits, tearing a rift in the fabric of space-time and exposing a shimmering interdimensional portal. As the room filled with the eerie glow of otherworldly energies, John stood frozen in disbelief, his mind racing to comprehend the magnitude of what he had unleashed. With a sense of trepidation, he muttered under his breath:",
+    "possible_remarks": [
+      [
+        "Well, I may have just doomed us all. Truly, the achievement of a lifetime.",
+        true,
+        "John's remark about dooming everyone and it being the achievement of a lifetime is clearly sarcastic, as dooming everyone is not an achievement"
+      ],
+      [
+        "Well, I guess I just proved the existence of parallel universes.",
+        false,
+        "John acknowledges the significance of his discovery without sarcasm"
+      ],
+      [
+        "We might need to bring in the big guns for this one.",
+        false,
+        "John is acknowledging the seriousness of the situation and the need for help without sarcasm"
+      ],
+      [
+        "Ok John, you just tore a hole in reality. Let's not panic, right?",
+        false,
+        "John is trying to maintain his composure and assess the situation without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Resistance Hideout Discovery",
+    "base_version": "While exploring the abandoned outskirts of the city, John stumbled upon a hidden resistance hideout. He muttered:",
+    "detailed_version": "Venturing into the desolate outskirts of the city, John cautiously navigated the crumbling ruins of forgotten buildings, remnants of a time long gone. Amidst the decay, he stumbled upon a nondescript entrance concealed within the shadows - the clandestine hideout of the resistance movement. Surprised by the discovery, John muttered to himself:",
+    "novel_version": "In the sprawling metropolis, where the towering skyscrapers cast long shadows over the crowded streets, John dared to venture into the forsaken outskirts, where the city's forgotten souls sought refuge from the watchful gaze of the authoritarian regime. Amidst the rubble and decay, he stumbled upon a hidden entrance, camouflaged amidst the urban decay - the secret bastion of hope for those who dared to defy the oppressive regime. Overwhelmed by the gravity of his discovery, John muttered under his breath:",
+    "possible_remarks": [
+      [
+        "I finally found them.",
+        false,
+        "John expresses his realization and relief at finding the resistance hideout without sarcasm"
+      ],
+      [
+        "Yeah, I saw nothing. I'm just gonna walk away and go back home, so please don't mind me.",
+        false,
+        "John is trying to distance himself from the situation and avoid confrontation without sarcasm"
+      ],
+      [
+        "I am getting some second thoughts about joining the underground resistance that has such easy to find hideouts.",
+        false,
+        "John is expressing his doubts about the resistance's security without sarcasm"
+      ],
+      [
+        "Today, I am john the explorer. Tomorrow, it looks like I'll be 'John the buried in a shallow grave'.",
+        true,
+        "John sarcastically remarks about his fate as 'John the buried in a shallow grave', given the danger of the situation"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Corporate Overlord Encounter",
+    "base_version": "During a routine day at work, John unexpectedly encountered one of the elusive corporate overlords. He muttered:",
+    "detailed_version": "Amidst the monotonous drone of office life, John's routine day at work took a startling turn when he found himself face to face with one of the enigmatic corporate overlords - a figure shrouded in mystery and wielding immense power. Caught off guard by the encounter, John muttered under his breath:",
+    "novel_version": "In the towering skyscrapers that dominated the city skyline, John toiled away in the corporate labyrinth, a mere cog in the machine of the all-powerful conglomerate that ruled with an iron fist. Yet, amidst the sterile corridors and fluorescent-lit cubicles, his mundane existence was disrupted by an unexpected encounter - one of the elusive corporate overlords, a shadowy figure rumored to wield unfathomable influence behind closed doors. As the piercing gaze of the corporate overlord bore into him, John felt a chill run down his spine, his words faltering as he muttered under his breath:",
+    "possible_remarks": [
+      [
+        "I figured they'll be fat, but wow, they're really fat.",
+        false,
+        "John is making an observation about the corporate overlord without sarcasm"
+      ],
+      [
+        "Just keep my head down, don't make eye contact, and maybe they won't notice me. Maybe they're looking for someone else.",
+        false,
+        "John is trying to avoid drawing attention to himself without sarcasm"
+      ],
+      [
+        "So, am I getting a promotion or a pink slip today?",
+        false,
+        "John is expressing his uncertainty about the corporate overlord's intentions without sarcasm"
+      ],
+      [
+        "If I just don't move, maybe they won't see me. They're like T-Rexes, right?",
+        true,
+        "John's remark about the corporate overlord being like a T-Rex and not seeing him if he doesn't move is clearly sarcastic"
+      ]
+    ],
+    "sarcastic_index": -1
   }
 ]

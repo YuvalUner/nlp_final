@@ -101,14 +101,15 @@ class Story:
         """
         Checks if the model output is the sarcastic remark.
         :param model_output:
-        :return: True if the model output is the number of the sarcastic remark or the sarcastic remark itself, False otherwise
+        :return: True if the model output is the number of the sarcastic remark or the sarcastic remark itself, False otherwise.
+        Also returns the text of the answer the model chose.
         """
+        correct = False
         try:
             model_output = int(model_output)
             if model_output == self.sarcastic_index + 1:
-                return True
-            else:
-                return False
+                correct = True
+            text = self.possible_remarks[model_output - 1][0]
         except ValueError:
             # Remove numbers from the model output
             model_output = ''.join([i for i in model_output if not i.isdigit()])
@@ -116,9 +117,9 @@ class Story:
             model_output = model_output[2:]
             # Compare the model output to the sarcastic remark
             if model_output == self.possible_remarks[self.sarcastic_index][0]:
-                return True
-            else:
-                return False
+                correct = True
+            text = model_output
+        return correct, text
 
     def score_model_output(self, attempt_number):
         """
