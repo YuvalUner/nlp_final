@@ -1158,6 +1158,295 @@
       ]
     ],
     "sarcastic_index": -1
+  },
+  {
+    "title": "Virtual Heist",
+    "base_version": "Infiltrating a secure virtual network, Neo uncovered a digital vault brimming with valuable data. He remarked:",
+    "detailed_version": "Navigating through layers of encrypted code, Neo breached the defenses of the secure virtual network, his digital avatar flickering amidst cascading lines of code. With a surge of triumph, he uncovered the virtual vault, its digital locks gleaming with the promise of untold riches. Fingers flying across the holo-interface, he couldn't help but remark:",
+    "novel_version": "Stepping into the virtual realm, Neo embarked on a daring heist, his consciousness merging seamlessly with the intricate network of cyberspace. Immersed in a kaleidoscope of data streams and digital architectures, he navigated through the labyrinth of encrypted firewalls and security protocols with practiced precision. Finally, at the heart of the virtual fortress, he discovered the digital vault, its contents shimmering with the allure of forbidden knowledge and illicit gains. With a sense of exhilaration coursing through his virtual veins, he remarked with a mix of anticipation and bravado:",
+    "possible_remarks": [
+      [
+        "Haha, jackpot! Time to cash in and retire to a beach in the tropics.",
+        false,
+        "Neo expresses his excitement and plans for the future without sarcasm"
+      ],
+      [
+        "Maybe i should leave a calling card. 'Neo was here'.",
+        true,
+        "Neo's remark about leaving a calling card is clearly sarcastic, as it's unlikely he would want to reveal his identity"
+      ],
+      [
+        "I always knew crime paid better than a 9 to 5 job.",
+        false,
+        "Neo is acknowledging a known fact - that crime can be lucrative - without sarcasm"
+      ],
+      [
+        "GG EZ",
+        false,
+        "This is a common gaming term that stands for 'good game, easy'. It could be seen as sarcastic, but it's also a common phrase used in gaming to taunt opponents"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Underground Deal Gone Wrong",
+    "base_version": "Meeting with a shady fixer in the neon-lit depths of the city, Max's illicit deal took a dangerous turn. He muttered:",
+    "detailed_version": "In the dimly lit confines of the underground, Max found himself face-to-face with a shadowy fixer, their identities concealed by the flickering neon lights that danced across the grimy walls. As the deal turned sour and tension crackled in the air, Max couldn't help but mutter under his breath:",
+    "novel_version": "Descending into the labyrinthine depths of the city's underbelly, Max rendezvoused with a notorious fixer in the shadowy recesses of an underground bunker. Surrounded by the faint hum of machinery and the oppressive weight of secrecy, their illicit transaction took a treacherous turn. With danger lurking in every shadow, Max felt the weight of the situation bearing down on him, his muttered words echoing through the subterranean chamber:",
+    "possible_remarks": [
+      [
+        "Oh this was such a bad idea.",
+        false,
+        "Max acknowledges the mistake of the situation without sarcasm"
+      ],
+      [
+        "Maybe I should have brought backup. Or a weapon. Or both.",
+        false,
+        "Max is expressing his realization of the danger he's in without sarcasm"
+      ],
+      [
+        "This will make a for a great story to tell. Assuming I survive.",
+        false,
+        "Max acknowledges the potential for a good story without sarcasm"
+      ],
+      [
+        "Oh, me and my talent for making bad choices.",
+        true,
+        "Max's remark about his talent for making bad choices is clearly sarcastic, as he's acknowledging his mistake"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Ghostly Encounter in the Abandoned Mansion",
+    "base_version": "Exploring the abandoned mansion on the outskirts of town, Emily encountered a chilling presence. She muttered:",
+    "detailed_version": "Venturing into the decrepit mansion on the outskirts of town, Emily's footsteps echoed through the empty halls as she felt an eerie chill crawl down her spine. Suddenly, a ghostly figure materialized before her, sending shivers down her spine. She couldn't help but mutter under her breath:",
+    "novel_version": "The abandoned mansion loomed like a specter against the twilight sky, its crumbling facade a testament to forgotten grandeur. Emily, driven by equal parts curiosity and trepidation, crossed the threshold into a realm where time stood still. As she stepped into the foyer, the air grew heavy with the weight of untold secrets, and the echoes of bygone whispers seemed to linger in the shadows. Every creak of the floorboards, every flutter of tattered curtains, spoke of a presence long confined to the confines of the mansion's melancholic embrace. And then, in the dim light of a flickering candle, she saw it - a spectral apparition, its form ethereal yet unmistakably human. Frozen in place, Emily felt a chill seep into her bones as the ghostly figure fixed its gaze upon her, as if pleading for release from its eternal purgatory. With a trembling voice, she muttered:",
+    "possible_remarks": [
+      [
+        "Nope, ghosts aren't real. I'm just hallucinating. Yep, that's it.",
+        false,
+        "Emily is trying to rationalize the situation and deny the existence of ghosts without sarcasm"
+      ],
+      [
+        "Are you a real ghost? Seriously? I thought you'd be more transparent.",
+        false,
+        "Emily is making an observation about the ghost's appearance without sarcasm"
+      ],
+      [
+        "Haunted mansions nowadays are so realistic. I almost believed in ghosts for a second.",
+        false,
+        "Emily is either trying to downplay the situation or genuinely thought the mansion was realistic without sarcasm"
+      ],
+      [
+        "Am I getting possessed today? Is that what's happening? Can't you at-least take me out for dinner first?",
+        true,
+        "Emily's remark about getting possessed and being taken out for dinner is clearly sarcastic, as it's unlikely she would want to be possessed nor taken out for dinner by a ghost"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Mysterious Artifact Unearthed",
+    "base_version": "Digging through the ancient ruins, Alex unearthed a mysterious artifact pulsating with arcane energy. He remarked:",
+    "detailed_version": "Delving into the depths of the ancient ruins, Alex's excavation unearthed a mysterious artifact glowing with otherworldly energy. Intrigued yet wary, he couldn't help but remark:",
+    "novel_version": "Beneath the scorching sun, Alex toiled amidst the remnants of a lost civilization, his hands unearthing treasures long forgotten by time. But as the sands of millennia gave way to his relentless pursuit, he uncovered something beyond his wildest imaginings - a relic pulsating with arcane energy, its surface adorned with cryptic symbols that seemed to dance in the shifting light. With every beat of his heart, he felt the pull of the artifact, drawing him into a world of ancient mysteries and untold power. Yet, as he cradled the artifact in his hands, he couldn't shake the sense of foreboding that gnawed at his insides, a silent warning of the dangers that lay ahead. With a mixture of awe and apprehension, he muttered:",
+    "possible_remarks": [
+      [
+        "Is this some ancient alien tech? Or just a really fancy paperweight?",
+        false,
+        "Alex is expressing his curiosity and speculation about the artifact without sarcasm"
+      ],
+      [
+        "I wonder how much this would sell for. Maybe I can finally buy that private island.",
+        false,
+        "Alex is expressing his excitement and anticipation about the artifact's potential value without sarcasm"
+      ],
+      [
+        "I probably shouldn't touch this mysterious glowing artifact. I definitely shouldn't. But... where's the fun in that?",
+        false,
+        "Alex is acknowledging the potential danger of the artifact but is drawn to it out of curiosity without sarcasm"
+      ],
+      [
+        "Well, touching this thing can't go wrong",
+        true,
+        "Alex's remark about the situation not being able to go wrong is clearly sarcastic, as when dealing with mysterious artifacts, things can definitely go wrong"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Cursed Relic Discovered in the Crypt",
+    "base_version": "While exploring the ancient crypt, Sarah stumbled upon a cursed relic emanating a sinister aura. She muttered:",
+    "detailed_version": "Venturing into the depths of the ancient crypt, Sarah's footsteps echoed off the cold stone walls as she felt an oppressive presence weigh down upon her. Amidst the dim torchlight, she discovered a cursed relic adorned with intricate carvings and emanating a palpable aura of malevolence. With trepidation coursing through her veins, she couldn't help but mutter:",
+    "novel_version": "The ancient crypt lay shrouded in darkness, its air heavy with the weight of centuries-old secrets and forgotten whispers. Sarah, driven by an insatiable curiosity, descended into the abyss, her heart pounding with anticipation and apprehension in equal measure. As she navigated the labyrinthine passages, she felt the hairs on the back of her neck stand on end, a silent warning of the peril that awaited her. And then, amidst the crumbling sarcophagi and faded murals, she beheld it - a cursed relic, its surface etched with symbols of unspeakable power and malevolent intent. The very air seemed to crackle with dark energy as she approached, the relic's sinister aura seeping into her very soul. With a mixture of fear and fascination, she muttered under her breath:",
+    "possible_remarks": [
+      [
+        "Oh, another curse to add to my collection. Neat",
+        false,
+        "While the remark may be sarcastic, we do not have enough context to determine if Sarah actually collects curses or not"
+      ],
+      [
+        "Cursed relics in ancient crypts. I don't know what else I expected.",
+        false,
+        "Sarah is acknowledging the situation and the likelihood of encountering cursed relics in ancient crypts without sarcasm"
+      ],
+      [
+        "Will I live if I run away now, or did I already get cursed?",
+        false,
+        "Sarah is expressing her fear and uncertainty without sarcasm"
+      ],
+      [
+        "My nightmare's taken physical form. How lovely.",
+        true,
+        "Sarah's remark about her nightmare taking physical form is clearly sarcastic, as it's unlikely she would find it lovely"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Shadowy Figure in the Forgotten Library",
+    "base_version": "In the forgotten library, Mark caught a glimpse of a shadowy figure lurking in the darkness. He remarked:",
+    "detailed_version": "Deep within the forgotten library, Mark's footsteps echoed off the towering shelves, the musty scent of ancient tomes filling the air. Amidst the flickering candlelight, he caught a fleeting glimpse of a shadowy figure darting between the rows of books, its presence sending a chill down his spine. With a mixture of curiosity and apprehension, he couldn't help but remark:",
+    "novel_version": "The forgotten library stood as a testament to the passage of time, its shelves groaning under the weight of forgotten knowledge and forbidden secrets. Mark, drawn by an irresistible pull, ventured into the labyrinth of dusty tomes and faded manuscripts, his senses tingling with the promise of discovery. But as he delved deeper into the shadows, he became acutely aware of another presence lurking in the darkness - a shadowy figure, its form obscured by the gloom, yet unmistakably human. With each step, it seemed to fade in and out of existence, a ghostly apparition haunting the hallowed halls of the library. As fear coiled in the pit of his stomach, he muttered under his breath:",
+    "possible_remarks": [
+      [
+        "Bob? Is that you? You really need to stop sneaking up on people.",
+        false,
+        "Mark is trying to discover if the shadowy figure is someone he knows without sarcasm"
+      ],
+      [
+        "Just what I came to the library for - a thrill.",
+        false,
+        "While the remark could be seen as sarcastic, finding a thrill may really be the reason Mark came to the forgotten library"
+      ],
+      [
+        "Hey, are you the librarian? I need help finding a book.",
+        false,
+        "Mark is trying to engage with the shadowy figure and seek assistance from what he assumes is the librarian without sarcasm"
+      ],
+      [
+        "Good to know I'm not alone in the library. I was starting to feel lonely.",
+        true,
+        "Mark's remark about feeling lonely and being glad he's not alone is clearly sarcastic, as encountering a shadowy figure in a forgotten library is not comforting"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Cryptic Message from the Ouija Board",
+    "base_version": "During a séance, James received a cryptic message from the Ouija board. He muttered:",
+    "detailed_version": "Participating in the séance, James watched with bated breath as the planchette glided across the Ouija board, spelling out a cryptic message from the spirit realm. With a sense of unease settling over him, he couldn't help but mutter:",
+    "novel_version": "Surrounded by flickering candles and the hushed whispers of the other participants, James felt a shiver of anticipation as they summoned spirits from beyond the veil. With trembling fingers, he placed his hands on the planchette, his heart pounding with a mixture of excitement and trepidation. As the Ouija board came to life beneath his touch, the planchette began to move, spelling out a message from the unknown. Each letter formed words of warning and mystery, sending a chill down his spine as he realized the gravity of the communication. With a knot in his stomach, he muttered under his breath:",
+    "possible_remarks": [
+      [
+        "Come on gran, I set up a whole séance to talk to you, and the first thing you ask is if I've eaten?",
+        false,
+        "James is expressing his surprise at the spirit's question without sarcasm"
+      ],
+      [
+        "Why do spirits always have to be so cryptic? Can't they just say what they mean?",
+        false,
+        "James is expressing his frustration with the cryptic nature of the message without sarcasm"
+      ],
+      [
+        "So... does anyone know Morse code? I think the spirit's trying to communicate in dots and dashes.",
+        false,
+        "James is trying to decipher the cryptic message without sarcasm"
+      ],
+      [
+        "Spirits always deliver their warnings in such clear terms.",
+        true,
+        "James's remark about spirits delivering warnings in clear terms is clearly sarcastic, as the message was cryptic"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Eldritch Awakening",
+    "base_version": "While cleaning out his attic, John stumbled upon an old lasagna recipe book. Little did he know, it was a gateway to summoning an eldritch Garfield. He muttered:",
+    "detailed_version": "Sorting through dusty boxes in his cluttered attic, John's hand brushed against an old tome tucked away in the corner. Curiosity piqued, he leafed through its yellowed pages, revealing recipes for tantalizing lasagnas. Unbeknownst to him, these were no ordinary recipes; they held ancient incantations, a conduit to summoning unfathomable entities. As he closed the book, a whisper echoed through the air, and an otherworldly presence stirred in the shadows. Shaken by the inexplicable sensation, he muttered:",
+    "novel_version": "High above the mundane world, nestled within the eaves of John's attic, lay forgotten secrets that transcended time and space. Amongst the forgotten relics and dusty tomes, one particular book exuded a palpable aura, its pages inscribed with cryptic symbols and forbidden knowledge. It was a grimoire of ancient origin, its origins lost to the annals of history, but its power undiminished by the passage of ages. Within its musty confines lay incantations long dormant, waiting for a catalyst to awaken their potency. And so, as John unwittingly stumbled upon this relic of eldritch lore, he unwittingly set into motion a sequence of events that would defy comprehension. With each turn of the page, the fabric of reality trembled, and the boundary between the mundane and the arcane began to blur. Unseen by mortal eyes, the ancient entity known as Garfield stirred from its slumber, drawn forth by the subtle tendrils of the summoning ritual. Its form twisted and contorted, morphing into a grotesque parody of its former self, a nightmarish fusion of feline and eldritch horror. As John closed the tome, sealing his unwitting pact with cosmic forces beyond his comprehension, a sense of dread washed over him. He muttered under his breath, a tremor of fear tainting his voice:",
+    "possible_remarks": [
+      [
+        "Just another day with my perfectly normal eldritch cat. Nothing to see here.",
+        true,
+        "John's remark about his perfectly normal eldritch cat is clearly sarcastic, as eldritch entities are far from normal"
+      ],
+      [
+        "Garfield, today isn't Monday, go back to your dimension.",
+        false,
+        "John is trying to communicate with the Monday hating eldritch entity without sarcasm"
+      ],
+      [
+        "Garfield, I'm not in the mood for this today. I'll make you lasagna tomorrow, okay?",
+        false,
+        "John is trying to placate the eldritch entity without sarcasm"
+      ],
+      [
+        "He was already fat enough before. How am I gonna feed him now? No way I can afford that much lasagna.",
+        false,
+        "John is expressing his concern about feeding the eldritch Garfield without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Eldritch Encounter at the Pet Store",
+    "base_version": "While browsing for cat food at the pet store, John accidentally knocked over a display, revealing a hidden compartment containing an eldritch horror. He muttered:",
+    "detailed_version": "Perusing the aisles of the pet store in search of cat food, John's errant movement caused a display to topple over, revealing a hidden compartment beneath. To his astonishment, nestled within the hidden recess was an unsettling entity, its alien form pulsating with unearthly energy. A chill ran down his spine as he realized the implications of its presence, and he muttered under his breath:",
+    "novel_version": "In the heart of the bustling pet store, amidst rows of gleaming cages and chirping birds, John found himself drawn to a display of cat food nestled in the corner. As he reached out to inspect a particularly enticing bag, his elbow caught the edge of a nearby display, sending it crashing to the ground in a cacophony of noise. Amidst the chaos, a hidden compartment was revealed, its contents shrouded in mystery until now. With trembling hands, John peered into the darkness, his eyes widening in horror at the sight before him - an otherworldly entity, its form twisting and contorting in ways that defied comprehension. The air seemed to grow thick with an oppressive energy as he gazed upon the eldritch horror, its presence a stark reminder of the vast unknown lurking just beyond the veil of reality. With a shudder, he muttered to himself, his voice barely above a whisper, as if afraid to draw the attention of whatever dark forces may be listening:",
+    "possible_remarks": [
+      [
+        "I should take it home, I'm sure my cat would love this new friend.",
+        true,
+        "John's remark about taking it home for his cat is clearly sarcastic, as eldritch horrors are definitely not pet material or good friends for cats"
+      ],
+      [
+        "For some reason, I'm not surprised to find eldritch horrors in this store.",
+        false,
+        "John is expressing his lack of surprise at the situation without sarcasm"
+      ],
+      [
+        "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
+        false,
+        "This is the chant to summon Cthulhu, a famous eldritch entity from Lovecraftian lore. It could be seen as sarcastic, but it's also a reference to the eldritch genre"
+      ],
+      [
+        "Maybe I should stick to online shopping from now on...",
+        false,
+        "John is considering alternative shopping options without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "The Dreaded Elevator Incident",
+    "base_version": "Entering an old building, John stepped into an elevator and accidentally pressed the wrong button, descending into the depths of hell. He muttered:",
+    "detailed_version": "As John entered the old building, he stepped into the elevator and accidentally pressed the wrong button. Instead of ascending to his desired floor, the elevator descended into the depths of hell. A sense of dread washed over him as the walls of the elevator seemed to radiate heat, and he muttered under his breath:",
+    "novel_version": "Entering the dilapidated lobby of the old building, John's footsteps echoed against the marble floors as he made his way to the ancient elevator. With a press of a button, he stepped inside, intending to ascend to the upper floors. Yet, as the doors closed, a sudden jolt sent the elevator plummeting into darkness. Panic seized him as the walls of the elevator seemed to grow hotter and hotter, the air thick with the scent of brimstone. Flames danced outside the windows, casting eerie shadows within the confined space. Realization dawned on him as he recognized the infernal landscape unfolding before his eyes - he was descending into the depths of hell itself. With a shaky breath, he muttered to himself, his voice trembling with fear and disbelief:",
+    "possible_remarks": [
+      [
+        "Well done, John. You've officially reached a new low.",
+        true,
+        "John's remark about reaching a new low is clearly sarcastic, as descending into hell is definitely not a positive achievement"
+      ],
+      [
+        "What the hell? Literally...",
+        false,
+        "This is a pun using a common phrase 'what the hell' in a literal sense, not necessarily sarcastic"
+      ],
+      [
+        "I knew I should have taken the stairs. Elevators are always trouble.",
+        false,
+        "John is expressing his regret and frustration without sarcasm"
+      ],
+      [
+        "God, excuse me for all my sins. I promise I'll be good if you get me out of this.",
+        false,
+        "John is expressing his fear and seeking divine intervention without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
   }
-
 ]

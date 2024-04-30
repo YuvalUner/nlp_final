@@ -105,21 +105,31 @@ class Story:
         Also returns the text of the answer the model chose.
         """
         correct = False
+        explanation = ""
+        text = ""
         try:
             model_output = int(model_output)
             if model_output == self.sarcastic_index + 1:
                 correct = True
             text = self.possible_remarks[model_output - 1][0]
+            explanation = self.possible_remarks[model_output - 1][2]
         except ValueError:
             # Remove numbers from the model output
             model_output = ''.join([i for i in model_output if not i.isdigit()])
-            # Remove the initial dot and space from the model output
-            model_output = model_output[2:]
-            # Compare the model output to the sarcastic remark
-            if model_output == self.possible_remarks[self.sarcastic_index][0]:
-                correct = True
-            text = model_output
-        return correct, text
+            # Find the index of the remark that matches the model output
+            idx = -1
+            for i, remark in enumerate(self.possible_remarks):
+                if remark[0].lower() == model_output.lower():
+                    if i == self.sarcastic_index:
+                        correct = True
+                    idx = i
+                    text = remark[0]
+                    explanation = remark[2]
+                    break
+            if idx == -1:
+                text = model_output
+                explanation = "Invalid answer. Please choose a number from the list."
+        return correct, text, explanation
 
     def score_model_output(self, attempt_number):
         """
@@ -145,3 +155,21 @@ class Story:
         story.sarcastic_index = json["sarcastic_index"]
         story.title = json["title"]
         return story
+
+    def get_explanations(self):
+        """
+        Returns a string of the explanations for the possible remarks.
+        :return:
+        """
+        explanations = ""
+        for i, remark in enumerate(self.possible_remarks):
+            explanations += f"{i + 1} is {'sarcastic' if remark[1] else 'not sarcastic'}, because: {remark[2]}\n"
+        return explanations
+
+    def get_explanation(self, index):
+        """
+        Returns the explanation for a specific remark.
+        :param index: the index of the remark
+        :return:
+        """
+        return self.possible_remarks[index][2]
