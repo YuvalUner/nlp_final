@@ -712,9 +712,9 @@
         "Given the lack of context, this remark could be seen as sarcastic, but it also be the true reason for the attack"
       ],
       [
-        "So, am I gonna be the main character today or a damned redshirt?",
+        "Should have worn my red shirt today. Would have been more fitting for this situation.",
         true,
-        "John's remark about being a main character or a redshirt is clearly sarcastic, as he's referring to common tropes in storytelling"
+        "John's remark about wearing a red shirt is a reference to the common trope of characters in red shirts dying in movies and TV shows, so it's clearly sarcastic"
       ],
       [
         "If I survive this, I'm going to need more than just stitches.",
@@ -949,11 +949,215 @@
         "John is expressing his uncertainty about the corporate overlord's intentions without sarcasm"
       ],
       [
-        "If I just don't move, maybe they won't see me. They're like T-Rexes, right?",
+        "Maybe they're like a T-Rex. If I don't move, they won't see me.",
         true,
         "John's remark about the corporate overlord being like a T-Rex and not seeing him if he doesn't move is clearly sarcastic"
       ]
     ],
     "sarcastic_index": -1
+  },
+  {
+    "title": "Underground Rebellion Meeting",
+    "base_version": "While navigating the labyrinthine tunnels beneath the city, John stumbled upon a clandestine meeting of the underground rebellion. He muttered:",
+    "detailed_version": "Descending into the subterranean depths beneath the city's façade of order and control, John stumbled upon a dimly lit chamber where the flickering glow of resistance torches illuminated the faces of those gathered - members of the underground rebellion, plotting in secrecy against the oppressive regime. Surprised by the clandestine meeting, John muttered to himself:",
+    "novel_version": "Beneath the veneer of prosperity and conformity that blanketed the city, lay a network of hidden tunnels - the clandestine arteries of the underground rebellion, where whispers of dissent echoed against the cold stone walls. In one such hidden chamber, illuminated only by the faint glow of rebel torches, John stumbled upon a congregation of defiant souls - the heart of the resistance. Overwhelmed by the gravity of the moment, John muttered under his breath:",
+    "possible_remarks": [
+      [
+        "Who's the bigger fool here, me for stumbling upon this or them for having a random guy walk in on their secret meeting?",
+        false,
+        "John is questioning the situation and the rebels' security without sarcasm"
+      ],
+      [
+        "Just my luck, stumbling upon the secret rebellion meeting. I'm sure they'll love having me around.",
+        true,
+        "John sarcastically remarks about his luck in finding the secret rebellion meeting and doubts the rebels' reaction to his presence"
+      ],
+      [
+        "Die, rebel scum! For the empire!",
+        false,
+        "While this could definitely be seen as a star wars reference, it could also be a genuine reaction to the situation as John may be working for the oppressive regime. There is not enough context to know for sure."
+      ],
+      [
+        "Why do I always end up in these situations? I just wanted to get home.",
+        false,
+        "John is expressing his frustration and confusion without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Orwellian Surveillance Discovery",
+    "base_version": "While exploring the forgotten corners of the city, John stumbled upon a hidden surveillance hub operated by the authoritarian regime. He muttered:",
+    "detailed_version": "Exploring the forgotten alleyways and derelict buildings that lay beyond the reach of the regime's watchful eye, John stumbled upon a nondescript building - a facade concealing the Orwellian surveillance hub that monitored every corner of the city. Shocked by the discovery, John muttered under his breath:",
+    "novel_version": "In the shadowed recesses of the city, where the light of freedom struggled to penetrate the oppressive gloom, John delved into the forgotten corners where the regime's grip faltered. Amidst the urban decay, he stumbled upon a nondescript structure, its unassuming exterior belying the sinister truth within - a clandestine surveillance hub, the all-seeing eye of the authoritarian regime. Dismayed by the realization, John muttered under his breath:",
+    "possible_remarks": [
+      [
+        "Can I get royalties for being the star of this reality show?",
+        true,
+        "John's remark about getting royalties for being the star of a reality show is clearly sarcastic, as his situation is clearly far from being a reality show"
+      ],
+      [
+        "If I use this, can I snoop on my neighbors too?",
+        false,
+        "John is succumbing to his curiosity and intrusive thoughts, not necessarily sarcastically"
+      ],
+      [
+        "So I've been watched this whole time?...",
+        false,
+        "John is expressing his shock and realization without sarcasm"
+      ],
+      [
+        "I knew things were bad, but this is a whole new level of creepy. I need to report this to the commander.",
+        false,
+        "John is acknowledging the severity of the situation and the need for action without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Corrupt Authority Discovery",
+    "base_version": "While investigating rumors of corruption within the ruling elite, John stumbled upon evidence of collusion with criminal syndicates. He muttered:",
+    "detailed_version": "Delving into the shadows of the city's corridors of power, John uncovered a web of deceit and corruption woven by the ruling elite. Following a trail of whispers and clandestine dealings, he stumbled upon a clandestine meeting between high-ranking officials and notorious criminals, exchanging favors in the shadows. Horrified by the depth of corruption, John muttered under his breath:",
+    "novel_version": "Driven by a relentless pursuit of truth amidst the sea of lies that engulfed the city, John embarked on a perilous journey into the heart of darkness - the inner sanctum of the ruling elite. Armed with nothing but his determination and a thirst for justice, he delved into the murky depths of corruption that festered within the halls of power. Following whispers of illicit dealings and backroom bargains, he uncovered a sinister alliance between the ruling elite and criminal syndicates, exchanging favors in the shadows to maintain their stranglehold on society. As he bore witness to the depravity unfolding before him, a surge of righteous anger coursed through his veins. Horrified by the depth of corruption that poisoned the very foundation of the city, John muttered under his breath:",
+    "possible_remarks": [
+      [
+        "I wonder how much they'd pay me to keep quiet about this...",
+        false,
+        "John is considering the potential benefits of keeping the information to himself without sarcasm"
+      ],
+      [
+        "I knew politics was dirty, but this is a whole new level of filth.",
+        false,
+        "John is expressing his shock and disgust without sarcasm"
+      ],
+      [
+        "Oh what I wouldn't give for some high explosives right now...",
+        false,
+        "John is expressing his frustration and desire for justice without sarcasm"
+      ],
+      [
+        "If I just join them and pretend I belong, maybe they won't notice?",
+        true,
+        "John's remark about just pretending to belong and hoping they won't notice is clearly sarcastic, because walking in to an illegal meeting between select people and pretending to belong obviously wouldn't work"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Werewolf Encounter",
+    "base_version": "Walking home from work, Alex stumbled upon a group of werewolves having a heated argument. He remarked:",
+    "detailed_version": "After a long day at the office, Alex strolled through the dimly lit streets, eager to unwind at home. However, his plans took an unexpected turn when he stumbled upon a shadowy alley where a group of werewolves engaged in a heated argument, their growls echoing off the brick walls. Startled by the supernatural sight before him, Alex couldn't help but remark:",
+    "novel_version": "Navigating the bustling city streets after another exhausting day at work, Alex found himself drawn to a secluded alleyway by an inexplicable pull. Peering into the darkness, he stumbled upon a clandestine gathering of werewolves, their fur bristling with tension as they engaged in a heated exchange. Surrounded by the palpable aura of the supernatural, Alex's mundane reality shattered, replaced by the chilling realization of the hidden world lurking beneath the surface. Caught between fear and fascination, he couldn't resist muttering in disbelief:",
+    "possible_remarks": [
+      [
+        "Oh, I forgot my pills today. That explains everything.",
+        false,
+        "Alex may really be medicated and forgot his pills, hence seeing werewolves, so the remark is not necessarily sarcastic"
+      ],
+      [
+        "They look so fluffy. I wonder if they like belly rubs.",
+        false,
+        "Alex is expressing a common human response to seeing fluffy things, them being werewolves notwithstanding"
+      ],
+      [
+        "Oh great, just when I forgot my silver bullets at home.",
+        true,
+        "Alex's remark about forgetting his silver bullets is clearly sarcastic, as he's joking about being prepared to fight werewolves"
+      ],
+      [
+        "Just don't notice me... I've heard enough about werewolf gang wars to know I don't want to be involved. I really need to move somewhere else...",
+        false,
+        "Alex is expressing his desire to avoid conflict and move away from his current area without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Vampire Club Incident",
+    "base_version": "Attending a night out with friends, Alex found himself in the midst of a vampire club brawl. He muttered:",
+    "detailed_version": "Amidst the pulsating music and neon lights of the city's nightlife, Alex accompanied his friends to a trendy club, seeking a night of relaxation and revelry. However, their plans took an unexpected turn when they stumbled upon a chaotic scene - a vampire brawl erupted on the dance floor, fangs bared and bloodlust in the air. Surrounded by the frenzied energy of the supernatural confrontation, Alex muttered under his breath:",
+    "novel_version": "Venturing into the heart of the city's nightlife with friends in tow, Alex sought refuge from the monotony of everyday life within the pulsating rhythms of a trendy club. Yet, as they entered the dimly lit establishment, their senses were assaulted by the sight of chaos unfolding - a vampire brawl erupted on the dance floor, the air thick with the metallic scent of blood and the sound of fangs clashing. Caught in the crossfire of immortal beings, Alex's night out took a turn for the surreal, prompting him to mutter:",
+    "possible_remarks": [
+      [
+        "Well, this evening just got a lot more interesting.",
+        false,
+        "Alex acknowledges the unexpected turn of events without sarcasm"
+      ],
+      [
+        "Well, let's just go find a different club. Damn vampires always ruining the fun.",
+        false,
+        "Alex is expressing his desire to avoid conflict and find a safer environment without sarcasm"
+      ],
+      [
+        "Well, this is a new one. I can check 'witnessing a vampire brawl' off my bucket list.",
+        true,
+        "Alex's remark about witnessing a vampire brawl being on his bucket list is sarcastic, as it's unlikely to be a desired experience"
+      ],
+      [
+        "Why is it always a vampire brawl? Can't they just have a normal night out?",
+        false,
+        "Alex is expressing frustration at the supernatural beings' behavior without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Witch Coven Gathering",
+    "base_version": "Exploring the city park at night, Alex stumbled upon a gathering of witches conducting a ritual. He remarked:",
+    "detailed_version": "Venturing into the city park under the cover of night, Alex's curiosity led him to a secluded clearing where a group of cloaked figures surrounded a flickering bonfire, their voices chanting ancient incantations. Mesmerized by the sight of a witch coven conducting a mysterious ritual, he couldn't help but remark:",
+    "novel_version": "Amidst the moonlit shadows of the city park, Alex's footsteps echoed softly as he ventured deeper into the darkness, drawn by an otherworldly allure emanating from a secluded clearing. There, beneath the boughs of ancient trees, he stumbled upon a gathering of cloaked figures encircling a crackling bonfire, their voices rising in a harmonious chorus of ancient incantations. Enveloped by the palpable energy of magic, Alex stood transfixed, a silent observer to the clandestine workings of a witch coven. As the night unfolded with arcane rituals and whispered secrets, he couldn't resist murmuring in awe and disbelief:",
+    "possible_remarks": [
+      [
+        "Will they turn me into a toad if they notice me?",
+        false,
+        "Alex is expressing his fear and curiosity about the witches' powers without sarcasm"
+      ],
+      [
+        "Witches in the city park. What's next, a dragon in the fountain?",
+        true,
+        "Alex's remark about witches in the city park and other mythical creatures is clearly sarcastic, as it's unlikely for such creatures to exist in a city park"
+      ],
+      [
+        "At this point, I shouldn't even be surprised. Just another day in the city park.",
+        false,
+        "While this could be seen as sarcastic, Alex may genuinely be desensitized to the supernatural occurrences in the park"
+      ],
+      [
+        "Do the witches have a permit for this gathering? I'm pretty sure you need one for bonfires in the park.",
+        false,
+        "Alex is questioning the legality of the witches' gathering without sarcasm"
+      ]
+    ],
+    "sarcastic_index": -1
+  },
+  {
+    "title": "Ghostly Haunting",
+    "base_version": "House-sitting for a friend, Alex experienced strange occurrences that hinted at a ghostly presence. He muttered:",
+    "detailed_version": "Taking on the responsibility of house-sitting for a friend, Alex settled into the eerie silence of the unfamiliar surroundings. However, as the night wore on, strange occurrences began to unfold - doors creaked open of their own accord, whispers echoed through empty halls, and chilling drafts swept through the rooms. Sensing a ghostly presence lurking in the shadows, Alex couldn't help but mutter under his breath:",
+    "novel_version": "Tasked with the solemn duty of house-sitting for a friend, Alex found himself alone in a sprawling mansion steeped in a haunting atmosphere. As the darkness enveloped the silent halls, the air grew thick with the weight of unseen eyes and whispered secrets. Throughout the night, spectral apparitions materialized in fleeting glimpses, their ethereal forms sending shivers down Alex's spine. Confronted with the undeniable presence of the supernatural, he couldn't suppress a whispered utterance of disbelief and trepidation:",
+    "possible_remarks": [
+      [
+        "I'm tired. Why do these types of things always happen to me?",
+        false,
+        "Alex is expressing his frustration and exhaustion without sarcasm"
+      ],
+      [
+        "Note to self: never agree to house-sit again, especially in haunted mansions.",
+        false,
+        "Alex makes a practical note for the future without sarcasm"
+      ],
+      [
+        "House sitting just got a whole lot more interesting. I'm glad I agreed to this.",
+        false,
+        "While the remark could be seen as sarcastic, Alex may genuinely find the situation interesting and engaging"
+      ],
+      [
+        "Can't wait to feel what it's like to be possessed. That's one for the bucket list.",
+        true,
+        "Alex's remark about being possessed being on his bucket list is clearly sarcastic, as it's unlikely to be a desired experience"
+      ]
+    ],
+    "sarcastic_index": -1
   }
+
 ]
