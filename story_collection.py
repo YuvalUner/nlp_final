@@ -20,6 +20,7 @@ class StoryCollection:
         self.detailed_version_scores = []
         self.novel_version_scores = []
         self.results_dict = {}
+        self.curr_index = 0
 
     def add_story(self, story):
         story_titles = [story.title for story in self.stories]
@@ -80,4 +81,24 @@ class StoryCollection:
         for i, story in enumerate(self.stories):
             stories_string += f"Story {i + 1}: {story.title}\n"
         return stories_string
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.curr_index < len(self.stories):
+            story = self.stories[self.curr_index]
+            self.curr_index += 1
+            return story
+        else:
+            raise StopIteration
+
+    def __len__(self):
+        return len(self.stories)
+
+    def reset(self):
+        self.curr_index = 0
+
+    def __getitem__(self, item):
+        return self.stories[item]
 

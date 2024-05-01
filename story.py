@@ -1,5 +1,5 @@
 import math
-import random
+import numpy as np
 
 
 class Story:
@@ -44,14 +44,14 @@ class Story:
         This prevents the model from learning the order of the remarks.
         :return:
         """
-        random.shuffle(self.possible_remarks)
+        np.random.shuffle(self.possible_remarks)
         for i in range(len(self.possible_remarks)):
-            if self.possible_remarks[i][1]:
+            _, sarcastic, _ = self.possible_remarks[i]
+            if sarcastic:
                 self.sarcastic_index = i
                 break
 
     def __str__(self):
-        self.__randomize_remarks()
         return (f"Base Version: {self.base_version}\n\nDetailed Version: {self.detailed_version}\n"
                 f"\nNovel Version: {self.novel_version}\n\nRemarks: {self.possible_remarks}\n\nSarcastic"
                 f" Index: {self.sarcastic_index}\n\nStringified remarks:\n{self.__stringify_remarks()}\n\n")
@@ -66,8 +66,9 @@ class Story:
         :return:
         """
         remarks_string = ""
-        for i, remark in enumerate(self.possible_remarks):
-            remarks_string += f"{i + 1}. {remark[0]}\n"
+        for i in range(len(self.possible_remarks)):
+            remark, _, _ = self.possible_remarks[i]
+            remarks_string += f"{i + 1}. {remark}\n"
         return remarks_string
 
     def get_base_version_string_for_model(self):
@@ -109,7 +110,7 @@ class Story:
         text = ""
         try:
             model_output = int(model_output)
-            if model_output == self.sarcastic_index + 1:
+            if model_output == (self.sarcastic_index + 1):
                 correct = True
             text = self.possible_remarks[model_output - 1][0]
             explanation = self.possible_remarks[model_output - 1][2]
@@ -119,7 +120,8 @@ class Story:
             # Find the index of the remark that matches the model output
             idx = -1
             for i, remark in enumerate(self.possible_remarks):
-                if remark[0].lower() == model_output.lower():
+                # Check if the model output contains the remark, in case the model output is a sentence instead of a number
+                if remark[0].lower() in model_output.lower():
                     if i == self.sarcastic_index:
                         correct = True
                     idx = i
