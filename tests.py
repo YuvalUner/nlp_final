@@ -94,7 +94,7 @@ copy the remark, or add any additional text.
 
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
-    with open("results_zero_shot_zero_explanations_" + version_type + ".json", "w") as file:
+    with open("results/results_zero_shot_zero_explanations_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
 
@@ -172,7 +172,7 @@ copy the remark, or add any additional text.
 
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
-    with open("results_zero_shot_with_explanations_" + version_type + ".json", "w") as file:
+    with open("results/results_zero_shot_with_explanations_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
 def few_shot_test(version_type: str, story_collection: StoryCollection):
@@ -272,7 +272,7 @@ Answer:
 
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
-    with open("results_few_shot_" + version_type + ".json", "w") as file:
+    with open("results/results_few_shot_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
 
@@ -385,7 +385,7 @@ Thought process:
 
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
-    with open("results_few_shot_chain_of_thought_" + version_type + ".json", "w") as file:
+    with open("results/results_few_shot_chain_of_thought_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
 
@@ -398,6 +398,9 @@ def few_shot_chain_of_thought_with_coreference(version_type: str, story_collecti
     :param story_collection:
     :return:
     """
+    print(f"Starting few shot, chain of thought with coreference analysis, version type: {version_type}...")
+    nlp = spacy.load('en_core_web_trf')
+    nlp.add_pipe('coreferee')
     results_dict = {
         "Version Type": version_type,
         "Results": []
@@ -417,30 +420,46 @@ def few_shot_chain_of_thought_with_coreference(version_type: str, story_collecti
             story_content = story.get_base_version_string_for_model()
             pair_first_content = pair_first.get_base_version_string_for_model()
             pair_second_content = pair_second.get_base_version_string_for_model()
+            first_story_text = pair_first.base_version
+            second_story_text = pair_second.base_version
         elif version_type == "detailed":
             story_content = story.get_detailed_version_string_for_model()
             pair_first_content = pair_first.get_detailed_version_string_for_model()
             pair_second_content = pair_second.get_detailed_version_string_for_model()
+            first_story_text = pair_first.detailed_version
+            second_story_text = pair_second.detailed_version
         elif version_type == "novel":
             story_content = story.get_novel_version_string_for_model()
             pair_first_content = pair_first.get_novel_version_string_for_model()
             pair_second_content = pair_second.get_novel_version_string_for_model()
+            first_story_text = pair_first.novel_version
+            second_story_text = pair_second.novel_version
         else:
             raise ValueError("Invalid version type")
         pair_first_explanations = pair_first.get_explanations()
         pair_second_explanations = pair_second.get_explanations()
-        nlp = spacy.load('en_core_web_trf')
-        nlp.add_pipe('coreferee')
-        pair_first_coref = nlp(pair_first_content)
-        pair_second_coref = nlp(pair_second_content)
 
-        pair_first_coref._.coref_chains.print()
-        pair_second_coref._.coref_chains.print()
+        pair_first_coref = nlp(first_story_text)
+        pair_second_coref = nlp(second_story_text)
+
+
+        # Format the coreference chains for the model
+        pair_first_coref_pretty = pair_first_coref._.coref_chains.pretty_representation
+        num_chains_first = len(pair_first_coref._.coref_chains)
+        pair_second_coref_pretty = pair_second_coref._.coref_chains.pretty_representation
+        num_chains_second = len(pair_second_coref._.coref_chains)
+        # Pretty representation has a single line, of the form: "0: word1(1), word2(2), word3(5), 1: word4(7), word5(13)"
+        # We need to split this into multiple lines, each line corresponding to a coreference cluster
+        for j in range(1, num_chains_first):
+            pair_first_coref_pretty = pair_first_coref_pretty.replace(f"{i}: ", f"\n{i}: ")
+        for j in range(1, num_chains_second):
+            pair_second_coref_pretty = pair_second_coref_pretty.replace(f"{i}: ", f"\n{i}: ")
+
 
         system_content = """You will be presented with a story, followed by a list of possible remarks the character in the story could make.
 You will be presented with a story, followed by a list of possible remarks the character in the story could make.
 Your task is to choose the sarcastic remark from the list.
-Show your thought process while doing so.
+Perform coreference analysis on the story to better understand the context, then show your thought process when you reason through the possible remarks.
 Your answers will be checked automatically, and so it is of paramount importance that you heed the following instruction:
 Make sure that the very last letter of your response is the number of the remark that you believe is sarcastic, or the 
 very last letter is that number followed by a single period.
@@ -450,16 +469,22 @@ Failure to do so will result in an automatic failure, and you will be penalized.
         user_content = f"""First, let's look at several examples for you to learn from.
 First story:
 {pair_first_content}
-Observe the coreferences in the story, to better understand the context:
-{pair_first_coref._.coref_chains}
-Reasoning: {pair_first_explanations}
+Observe the coreferences in the story, to better understand the context.
+The numbers at the beginning of each line indicate the coreference cluster that the words belongs to, while the numbers in the brackets next to each word indicates the index of the word in the story. Both use 0-indexing.
+The coreferences are as follows:
+{pair_first_coref_pretty}
+
+Logical reasoning about story and remarks: {pair_first_explanations}
 Therefore, the answer is {pair_first.sarcastic_index + 1}
 
 Second story:
 {pair_second_content}
-Observe the coreferences in the story, to better understand the context:
-{pair_second_coref._.coref_chains}
-Reasoning: {pair_second_explanations}
+Observe the coreferences in the story, to better understand the context.
+The numbers at the beginning of each line indicate the coreference cluster that the words belongs to, while the numbers in the brackets next to each word indicates the index of the word in the story. Both use 0-indexing.
+The coreferences are as follows:
+{pair_second_coref_pretty}
+
+Logical reasoning about story and remarks: {pair_second_explanations}
 Therefore, the answer is {pair_second.sarcastic_index + 1}
 
 Now, let's move on to the story you will be tested on.
@@ -512,7 +537,7 @@ Observe the coreferences in the story, to better understand the context:
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
 
-    with open("results_few_shot_chain_of_thought_with_coreference_" + version_type + ".json", "w") as file:
+    with open("results/results_few_shot_chain_of_thought_with_coreference_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
 
@@ -602,6 +627,6 @@ Therefore, the answer is:
         results_dict["Results"].append(story_results)
         print(f"Story {i + 1} completed, {f'correct on attempt {attempt_num}' if correct else 'failed'}.")
 
-    with open("results_zero_shot_chain_of_thought_" + version_type + ".json", "w") as file:
+    with open("results/results_zero_shot_chain_of_thought_" + version_type + ".json", "w") as file:
         json.dump(results_dict, file)
 
