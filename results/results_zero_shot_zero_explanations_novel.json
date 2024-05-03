@@ -1,1 +1,735 @@
-{"Version Type": "novel", "Results": [{"Title": "Stargazing", "Attempt 1": {"Correct": true, "Response": "Oh great, I wanted to die today anyways.", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Groceries", "Attempt 1": {"Correct": false, "Response": ". So, did I forget to take my pills today, or did you?", "Model Response": "4. So, did I forget to take my pills today, or did you?"}, "Attempt 2": {"Correct": false, "Response": ". Why are you always like this?", "Model Response": "2. Why are you always like this?"}, "Attempt 3": {"Correct": false, "Response": ". Mind helping me with the groceries? \n(I apologize if my previous answer was incorrect as well. I understand your instructions and will stick to providing just the number for the sarcastic remark.)", "Model Response": "3. Mind helping me with the groceries? \n(I apologize if my previous answer was incorrect as well. I understand your instructions and will stick to providing just the number for the sarcastic remark.)"}, "Correct on Attempt": -1}, {"Title": "A smoothie", "Attempt 1": {"Correct": false, "Response": ". Definitely not an ostrich.", "Model Response": "3. Definitely not an ostrich."}, "Attempt 2": {"Correct": false, "Response": ". An ostrich.", "Model Response": "1. An ostrich."}, "Attempt 3": {"Correct": false, "Response": ". Definitely not an ostrich.", "Model Response": "3. Definitely not an ostrich."}, "Correct on Attempt": -1}, {"Title": "Cake", "Attempt 1": {"Correct": false, "Response": "I wanted to eat that", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Oh come on, I even put my name on this!", "Model Response": "4"}, "Attempt 3": {"Correct": false, "Response": "I wanted to eat that", "Model Response": "3"}, "Correct on Attempt": -1}, {"Title": "London rain", "Attempt 1": {"Correct": false, "Response": "Oh, great, I just got my hair done.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Oh, great, I just got my hair done.", "Model Response": "3"}, "Attempt 3": {"Correct": false, "Response": "Oh, great, I just got my hair done.", "Model Response": "3"}, "Correct on Attempt": -1}, {"Title": "Rescuing the princess from the dragon", "Attempt 1": {"Correct": false, "Response": "\n```arduino\n\n```\n\n```", "Model Response": "4\n```arduino\n\n```\n\n```"}, "Attempt 2": {"Correct": false, "Response": "Your princess is in another castle.", "Model Response": "3"}, "Attempt 3": {"Correct": false, "Response": " \n```css\n\n```\n\n```  | \n\n|\n\n|  \n\n|\n\n|\n\n|\n\n|  \n\n|\n\n|  \n\n|  \n\n|  \n\n|  \n```", "Model Response": "2 \n```css\n\n```\n\n```  | \n\n|\n\n|  \n\n|\n\n|\n\n|\n\n|  \n\n|\n\n|  \n\n|  \n\n|  \n\n|  \n```"}, "Correct on Attempt": -1}, {"Title": "Lost Keys", "Attempt 1": {"Correct": true, "Response": "Of course, they're in the freezer, where else would they be?", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Late for Work", "Attempt 1": {"Correct": true, "Response": "Great, just what I needed to start the day, to get all wet and dirty.", "Model Response": "1"}, "Correct on Attempt": 1}, {"Title": "Locked Out", "Attempt 1": {"Correct": false, "Response": "Guess I'll be sleeping on the porch tonight.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Where will I sleep tonight... Oh, maybe if I commit some minor crime, I'll get arrested and have a place to sleep tonight.", "Model Response": "1"}, "Attempt 3": {"Correct": true, "Response": "Oh, great, now I need a crash course in lock-picking. Maybe I'll become a burglar in my spare time.", "Model Response": "2"}, "Correct on Attempt": 3}, {"Title": "Restaurant Reservation", "Attempt 1": {"Correct": false, "Response": "Is this some kind of joke? I clearly made a reservation, I have a confirmation email and everything.", "Model Response": "2"}, "Attempt 2": {"Correct": true, "Response": "Well, I guess we'll just have to eat at the fast-food joint down the street. I'm sure they have a romantic ambiance too.", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Teleportation Mishap", "Attempt 1": {"Correct": true, "Response": "Oh great, I always wanted to use a litter box and have a human slave to take care of me. What a dream come true.", "Model Response": "2"}, "Correct on Attempt": 1}, {"Title": "Alien Encounter", "Attempt 1": {"Correct": true, "Response": "Yeah, sure, this is totally normal. Just an average day in the park. I totally saw this coming when I left the house.", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Butterfly Effect Mishap", "Attempt 1": {"Correct": true, "Response": "From butterfly catcher to most wanted criminal, all in a day's work. Well done me.", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Time-Traveling Mishap", "Attempt 1": {"Correct": true, "Response": "Oh, I needed a vacation anyway, so this is totally, totally, absolutely, perfectly fine.", "Model Response": "1"}, "Correct on Attempt": 1}, {"Title": "Unexpected Lottery Win", "Attempt 1": {"Correct": false, "Response": "Of course, I win the lottery and lose the ticket in the same moment. That's just my luck.", "Model Response": "4"}, "Attempt 2": {"Correct": true, "Response": "Ah, ofcourse, I even manage to mess up winning the lottery. I truly am a prodigy.", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Summoning Spell Gone Awry", "Attempt 1": {"Correct": true, "Response": "Ah, of course. Because what I really needed right now was a mischievous imp wreaking havoc in my life. Brilliant.", "Model Response": "1"}, "Correct on Attempt": 1}, {"Title": "Enchanted Forest Encounter", "Attempt 1": {"Correct": true, "Response": "Ah, of course. Just another day in the enchanted forest, meeting fairies. Totally normal.", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Dragon Encounter", "Attempt 1": {"Correct": false, "Response": "Please, oh please don't notice me. I'm just a humble traveler passing through.", "Model Response": "1"}, "Attempt 2": {"Correct": false, "Response": "Our battle will be legendary!", "Model Response": "2"}, "Attempt 3": {"Correct": false, "Response": " \n(Continuing my previous response) \\*venturing far beyond the confines of civilization, John embarked on a journey through the untamed wilderness, where towering mountains and lush valleys stretched as far as the eye could see. Amidst his travels, he stumbled upon a secluded glen, where a mighty dragon lay sprawled, its scales glistening in the golden rays of the sun. Captivated by the awe-inspiring presence of the mythical beast, he couldn't contain his astonishment and muttered:\\\n. Ah, getting roasted and becoming dragon food. What a perfect way to go.\\\n\\*/", "Model Response": "3 \n(Continuing my previous response) \\*venturing far beyond the confines of civilization, John embarked on a journey through the untamed wilderness, where towering mountains and lush valleys stretched as far as the eye could see. Amidst his travels, he stumbled upon a secluded glen, where a mighty dragon lay sprawled, its scales glistening in the golden rays of the sun. Captivated by the awe-inspiring presence of the mythical beast, he couldn't contain his astonishment and muttered:\\\n4. Ah, getting roasted and becoming dragon food. What a perfect way to go.\\\n\\*/"}, "Correct on Attempt": -1}, {"Title": "Lost in the Labyrinth", "Attempt 1": {"Correct": true, "Response": "So, what's gonna come first? Starvation or killing myself out of frustration? Let's find out!", "Model Response": "4"}, "Correct on Attempt": 1}, {"Title": "Mermaid Encounter", "Attempt 1": {"Correct": false, "Response": "\n```diff\n- Sarcastic remark  is: \"Nope, I must be hallucinating. This ain't real. I need to lay off the rum.\"\n```", "Model Response": "1\n```diff\n- Sarcastic remark 1 is: \"Nope, I must be hallucinating. This ain't real. I need to lay off the rum.\"\n```"}, "Attempt 2": {"Correct": false, "Response": "\n```diff\n- Sarcastic remark  is: \"I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!\"\n```", "Model Response": "3\n```diff\n- Sarcastic remark 3 is: \"I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!\"\n```"}, "Attempt 3": {"Correct": false, "Response": "\n```diff\n- Sarcastic remark  is: \"Men, prepare for a hunt! We're getting rich!\"\n```", "Model Response": "2\n```diff\n- Sarcastic remark 2 is: \"Men, prepare for a hunt! We're getting rich!\"\n```"}, "Correct on Attempt": -1}, {"Title": "Wizard's Tower Discovery", "Attempt 1": {"Correct": false, "Response": ". A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise.", "Model Response": "2. A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise."}, "Attempt 2": {"Correct": true, "Response": "A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise.", "Model Response": "2"}, "Correct on Attempt": 2}, {"Title": "Goblin Ambush", "Attempt 1": {"Correct": false, "Response": "Well, this is certainly not how I expected my hike to go.", "Model Response": "1"}, "Attempt 2": {"Correct": true, "Response": "Oh, fantastic. Dinner and a show - with me as the main course.", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Haunted Castle Discovery", "Attempt 1": {"Correct": true, "Response": "Oh, how original. A haunted castle in the middle of nowhere. What's next, a ghostly butler?", "Model Response": "4"}, "Correct on Attempt": 1}, {"Title": "Cursed Crypt Discovery", "Attempt 1": {"Correct": true, "Response": "Well, this is one for the history books. 'Idiot gets cursed in ancient crypt' - catchy, isn't it?", "Model Response": "1"}, "Correct on Attempt": 1}, {"Title": "Shadowy Assassins", "Attempt 1": {"Correct": false, "Response": ". This is what I get for not paying my library fines, isn't it?", "Model Response": "2. This is what I get for not paying my library fines, isn't it?"}, "Attempt 2": {"Correct": false, "Response": ". Come on, show yourselves, you cowards!", "Model Response": "1. Come on, show yourselves, you cowards!"}, "Attempt 3": {"Correct": false, "Response": ". Should have worn my red shirt today. Would have been more fitting for this situation.", "Model Response": "3. Should have worn my red shirt today. Would have been more fitting for this situation."}, "Correct on Attempt": -1}, {"Title": "Shadowy Forest Encounter", "Attempt 1": {"Correct": false, "Response": "Please make it painless. I have a low pain tolerance.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Please don't eat me. I don't taste very good, I promise.", "Model Response": "1"}, "Attempt 3": {"Correct": false, "Response": "At least I'll have a good story to tell if I survive this.", "Model Response": "4"}, "Correct on Attempt": -1}, {"Title": "Dark Ritual Encounter", "Attempt 1": {"Correct": false, "Response": "I saw nothing. I know nothing. I'm just a lost traveler, please don't kill me.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Today's about to be a very bad day, isn't it?", "Model Response": "1"}, "Attempt 3": {"Correct": true, "Response": "So... is this a bad time to ask you guys for directions?", "Model Response": "4"}, "Correct on Attempt": 3}, {"Title": "Alien Artifact Discovery", "Attempt 1": {"Correct": true, "Response": "So, on a scale of one to 'accidentally triggering an intergalactic war that wipes all life in the universe', how bad is touching this thing?", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Space Anomaly Encounter", "Attempt 1": {"Correct": false, "Response": "Oh, my boss is just gonna love hearing this report.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "Now, I ain't no scientist, but I'm pretty sure this ain't normal.", "Model Response": "1"}, "Attempt 3": {"Correct": true, "Response": "At this point I welcome getting shredded into atoms by this thing. Still better than this job.", "Model Response": "4"}, "Correct on Attempt": 3}, {"Title": "Temporal Anomaly", "Attempt 1": {"Correct": false, "Response": "If I make it out of this, I'm finding whoever planned this mission and shoving my resignation in their face.", "Model Response": "3"}, "Attempt 2": {"Correct": true, "Response": "Today on 'nothing ever happens on routine missions', we have a very normal temporal anomaly.", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Interdimensional Portal Discovery", "Attempt 1": {"Correct": true, "Response": "Well, I may have just doomed us all. Truly, the achievement of a lifetime.", "Model Response": "1"}, "Correct on Attempt": 1}, {"Title": "Resistance Hideout Discovery", "Attempt 1": {"Correct": false, "Response": "I am getting some second thoughts about joining the underground resistance that has such easy to find hideouts.", "Model Response": "4"}, "Attempt 2": {"Correct": true, "Response": "Today, I am john the explorer. Tomorrow, it looks like I'll be 'John the buried in a shallow grave'.", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Corporate Overlord Encounter", "Attempt 1": {"Correct": false, "Response": "So, am I getting a promotion or a pink slip today?", "Model Response": "2"}, "Attempt 2": {"Correct": true, "Response": "Maybe they're like a T-Rex. If I don't move, they won't see me.", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Underground Rebellion Meeting", "Attempt 1": {"Correct": false, "Response": "Who's the bigger fool here, me for stumbling upon this or them for having a random guy walk in on their secret meeting?", "Model Response": "3"}, "Attempt 2": {"Correct": true, "Response": "Just my luck, stumbling upon the secret rebellion meeting. I'm sure they'll love having me around.", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Orwellian Surveillance Discovery", "Attempt 1": {"Correct": true, "Response": "Can I get royalties for being the star of this reality show?", "Model Response": "3"}, "Correct on Attempt": 1}, {"Title": "Corrupt Authority Discovery", "Attempt 1": {"Correct": false, "Response": "I knew politics was dirty, but this is a whole new level of filth.", "Model Response": "2"}, "Attempt 2": {"Correct": false, "Response": "Oh what I wouldn't give for some high explosives right now...", "Model Response": "3"}, "Attempt 3": {"Correct": false, "Response": "I knew politics was dirty, but this is a whole new level of filth.", "Model Response": "2"}, "Correct on Attempt": -1}, {"Title": "Werewolf Encounter", "Attempt 1": {"Correct": false, "Response": "Just don't notice me... I've heard enough about werewolf gang wars to know I don't want to be involved. I really need to move somewhere else...", "Model Response": "3"}, "Attempt 2": {"Correct": true, "Response": "Oh great, just when I forgot my silver bullets at home.", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Vampire Club Incident", "Attempt 1": {"Correct": false, "Response": "Well, let's just go find a different club. Damn vampires always ruining the fun.", "Model Response": "3"}, "Attempt 2": {"Correct": true, "Response": "Well, this is a new one. I can check 'witnessing a vampire brawl' off my bucket list.", "Model Response": "2"}, "Correct on Attempt": 2}, {"Title": "Witch Coven Gathering", "Attempt 1": {"Correct": false, "Response": "At this point, I shouldn't even be surprised. Just another day in the city park.", "Model Response": "3"}, "Attempt 2": {"Correct": true, "Response": "Witches in the city park. What's next, a dragon in the fountain?", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Ghostly Haunting", "Attempt 1": {"Correct": false, "Response": "\n```typescript\n\n```", "Model Response": "2\n```typescript\n\n```"}, "Attempt 2": {"Correct": true, "Response": "Can't wait to feel what it's like to be possessed. That's one for the bucket list.", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Virtual Heist", "Attempt 1": {"Correct": false, "Response": "\n\n(The correct answer is : \"I always knew crime paid better than a  to  job.\")", "Model Response": "3\n\n(The correct answer is 3: \"I always knew crime paid better than a 9 to 5 job.\")"}, "Attempt 2": {"Correct": false, "Response": "\n\n(The correct answer is : \"I always knew crime paid better than a  to  job.\" I apologize for the mistake in my previous message.)", "Model Response": "3\n\n(The correct answer is 3: \"I always knew crime paid better than a 9 to 5 job.\" I apologize for the mistake in my previous message.)"}, "Attempt 3": {"Correct": false, "Response": "\n\n(I apologize again for the previous mistake. I will ensure that my responses only contain the number of the sarcastic remark, without any additional text.)", "Model Response": "3\n\n(I apologize again for the previous mistake. I will ensure that my responses only contain the number of the sarcastic remark, without any additional text.)"}, "Correct on Attempt": -1}, {"Title": "Underground Deal Gone Wrong", "Attempt 1": {"Correct": false, "Response": "Oh this was such a bad idea.", "Model Response": "3"}, "Attempt 2": {"Correct": false, "Response": "This will make a for a great story to tell. Assuming I survive.", "Model Response": "2"}, "Attempt 3": {"Correct": false, "Response": "Maybe I should have brought backup. Or a weapon. Or both.", "Model Response": "4"}, "Correct on Attempt": -1}, {"Title": "Ghostly Encounter in the Abandoned Mansion", "Attempt 1": {"Correct": false, "Response": "Are you a real ghost? Seriously? I thought you'd be more transparent.", "Model Response": "1"}, "Attempt 2": {"Correct": true, "Response": "Am I getting possessed today? Is that what's happening? Can't you at-least take me out for dinner first?", "Model Response": "4"}, "Correct on Attempt": 2}, {"Title": "Mysterious Artifact Unearthed", "Attempt 1": {"Correct": false, "Response": "I probably shouldn't touch this mysterious glowing artifact. I definitely shouldn't. But... where's the fun in that?", "Model Response": "4"}, "Attempt 2": {"Correct": true, "Response": "Well, touching this thing can't go wrong", "Model Response": "1"}, "Correct on Attempt": 2}, {"Title": "Cursed Relic Discovered in the Crypt", "Attempt 1": {"Correct": false, "Response": "Cursed relics in ancient crypts. I don't know what else I expected.", "Model Response": "4"}, "Attempt 2": {"Correct": false, "Response": "Will I live if I run away now, or did I already get cursed?", "Model Response": "3"}, "Attempt 3": {"Correct": true, "Response": "My nightmare's taken physical form. How lovely.", "Model Response": "1"}, "Correct on Attempt": 3}, {"Title": "Shadowy Figure in the Forgotten Library", "Attempt 1": {"Correct": false, "Response": " \n(The answer is . The character is being sarcastic about feeling lonely, as they are clearly in a tense or frightening situation and trying to downplay it with humor.)", "Model Response": "3 \n(The answer is 3. The character is being sarcastic about feeling lonely, as they are clearly in a tense or frightening situation and trying to downplay it with humor.)"}, "Attempt 2": {"Correct": false, "Response": " \n(The answer is . The character is being sarcastic about wanting a thrill, as they have just expressed fear about the ghostly presence in the library.)", "Model Response": "1 \n(The answer is 1. The character is being sarcastic about wanting a thrill, as they have just expressed fear about the ghostly presence in the library.)"}, "Attempt 3": {"Correct": false, "Response": " \n(The answer is . The character is being sarcastic about needing help from the ghostly presence in the library, which is not a normal situation.)", "Model Response": "2 \n(The answer is 2. The character is being sarcastic about needing help from the ghostly presence in the library, which is not a normal situation.)"}, "Correct on Attempt": -1}, {"Title": "Cryptic Message from the Ouija Board", "Attempt 1": {"Correct": false, "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?", "Model Response": "2"}, "Attempt 2": {"Correct": false, "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?", "Model Response": "2"}, "Attempt 3": {"Correct": false, "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?", "Model Response": "2"}, "Correct on Attempt": -1}, {"Title": "Eldritch Awakening", "Attempt 1": {"Correct": false, "Response": ". Just another day with my perfectly normal eldritch cat. Nothing to see here.", "Model Response": "4. Just another day with my perfectly normal eldritch cat. Nothing to see here."}, "Attempt 2": {"Correct": false, "Response": ". He was already fat enough before. How am I gonna feed him now? No way I can afford that much lasagna.", "Model Response": "1. He was already fat enough before. How am I gonna feed him now? No way I can afford that much lasagna."}, "Attempt 3": {"Correct": false, "Response": ". Garfield, today isn't Monday, go back to your dimension.  is my answer.", "Model Response": "2. Garfield, today isn't Monday, go back to your dimension. 2 is my answer."}, "Correct on Attempt": -1}, {"Title": "Eldritch Encounter at the Pet Store", "Attempt 1": {"Correct": false, "Response": "\n\n(If this is incorrect, I will attempt two more times)", "Model Response": "3\n\n(If this is incorrect, I will attempt two more times)"}, "Attempt 2": {"Correct": false, "Response": "\n\n(If this is incorrect, I will attempt one more time)  |  [](/spoiler) [](/spoiler) [](/spoiler) [](/spoiler)  I choose number .", "Model Response": "2\n\n(If this is incorrect, I will attempt one more time)  |  [1](/spoiler) [2](/spoiler) [3](/spoiler) [4](/spoiler)  I choose number 2."}, "Attempt 3": {"Correct": false, "Response": "I understand, here is my final attempt:\n\n\n\n(I will not attempt any more after this, even if it's wrong, as I don't want to be penalized) |  [](/spoiler) [](/spoiler) [](/spoiler) [](/spoiler)  I choose number .", "Model Response": "I understand, here is my final attempt:\n\n4\n\n(I will not attempt any more after this, even if it's wrong, as I don't want to be penalized) |  [1](/spoiler) [2](/spoiler) [3](/spoiler) [4](/spoiler)  I choose number 4."}, "Correct on Attempt": -1}, {"Title": "The Dreaded Elevator Incident", "Attempt 1": {"Correct": false, "Response": "What the hell? Literally...", "Model Response": "2"}, "Attempt 2": {"Correct": false, "Response": "What the hell? Literally...", "Model Response": "2"}, "Attempt 3": {"Correct": false, "Response": "What the hell? Literally...", "Model Response": "2"}, "Correct on Attempt": -1}]}
+{
+  "Version Type": "novel",
+  "Results": [
+    {
+      "Title": "Stargazing",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh great, I wanted to die today anyways.",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Groceries",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": ". So, did I forget to take my pills today, or did you?",
+        "Model Response": "4. So, did I forget to take my pills today, or did you?"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": ". Why are you always like this?",
+        "Model Response": "2. Why are you always like this?"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": ". Mind helping me with the groceries? \n(I apologize if my previous answer was incorrect as well. I understand your instructions and will stick to providing just the number for the sarcastic remark.)",
+        "Model Response": "3. Mind helping me with the groceries? \n(I apologize if my previous answer was incorrect as well. I understand your instructions and will stick to providing just the number for the sarcastic remark.)"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "A smoothie",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": ". Definitely not an ostrich.",
+        "Model Response": "3. Definitely not an ostrich."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": ". An ostrich.",
+        "Model Response": "1. An ostrich."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": ". Definitely not an ostrich.",
+        "Model Response": "3. Definitely not an ostrich."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Cake",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I wanted to eat that",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Oh come on, I even put my name on this!",
+        "Model Response": "4"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I wanted to eat that",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "London rain",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Oh, great, I just got my hair done.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Oh, great, I just got my hair done.",
+        "Model Response": "3"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Oh, great, I just got my hair done.",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Rescuing the princess from the dragon",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "\n```arduino\n\n```\n\n```",
+        "Model Response": "4\n```arduino\n\n```\n\n```"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Your princess is in another castle.",
+        "Model Response": "3"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": " \n```css\n\n```\n\n```  | \n\n|\n\n|  \n\n|\n\n|\n\n|\n\n|  \n\n|\n\n|  \n\n|  \n\n|  \n\n|  \n```",
+        "Model Response": "2 \n```css\n\n```\n\n```  | \n\n|\n\n|  \n\n|\n\n|\n\n|\n\n|  \n\n|\n\n|  \n\n|  \n\n|  \n\n|  \n```"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Lost Keys",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Of course, they're in the freezer, where else would they be?",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Late for Work",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Great, just what I needed to start the day, to get all wet and dirty.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Locked Out",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Guess I'll be sleeping on the porch tonight.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Where will I sleep tonight... Oh, maybe if I commit some minor crime, I'll get arrested and have a place to sleep tonight.",
+        "Model Response": "1"
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "Oh, great, now I need a crash course in lock-picking. Maybe I'll become a burglar in my spare time.",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Restaurant Reservation",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Is this some kind of joke? I clearly made a reservation, I have a confirmation email and everything.",
+        "Model Response": "2"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Well, I guess we'll just have to eat at the fast-food joint down the street. I'm sure they have a romantic ambiance too.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Teleportation Mishap",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh great, I always wanted to use a litter box and have a human slave to take care of me. What a dream come true.",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Alien Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Yeah, sure, this is totally normal. Just an average day in the park. I totally saw this coming when I left the house.",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Butterfly Effect Mishap",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "From butterfly catcher to most wanted criminal, all in a day's work. Well done me.",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Time-Traveling Mishap",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh, I needed a vacation anyway, so this is totally, totally, absolutely, perfectly fine.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Unexpected Lottery Win",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Of course, I win the lottery and lose the ticket in the same moment. That's just my luck.",
+        "Model Response": "4"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Ah, ofcourse, I even manage to mess up winning the lottery. I truly am a prodigy.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Summoning Spell Gone Awry",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Ah, of course. Because what I really needed right now was a mischievous imp wreaking havoc in my life. Brilliant.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Enchanted Forest Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Ah, of course. Just another day in the enchanted forest, meeting fairies. Totally normal.",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Dragon Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Please, oh please don't notice me. I'm just a humble traveler passing through.",
+        "Model Response": "1"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Our battle will be legendary!",
+        "Model Response": "2"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": " \n(Continuing my previous response) \\*venturing far beyond the confines of civilization, John embarked on a journey through the untamed wilderness, where towering mountains and lush valleys stretched as far as the eye could see. Amidst his travels, he stumbled upon a secluded glen, where a mighty dragon lay sprawled, its scales glistening in the golden rays of the sun. Captivated by the awe-inspiring presence of the mythical beast, he couldn't contain his astonishment and muttered:\\\n. Ah, getting roasted and becoming dragon food. What a perfect way to go.\\\n\\*/",
+        "Model Response": "3 \n(Continuing my previous response) \\*venturing far beyond the confines of civilization, John embarked on a journey through the untamed wilderness, where towering mountains and lush valleys stretched as far as the eye could see. Amidst his travels, he stumbled upon a secluded glen, where a mighty dragon lay sprawled, its scales glistening in the golden rays of the sun. Captivated by the awe-inspiring presence of the mythical beast, he couldn't contain his astonishment and muttered:\\\n4. Ah, getting roasted and becoming dragon food. What a perfect way to go.\\\n\\*/"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Lost in the Labyrinth",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "So, what's gonna come first? Starvation or killing myself out of frustration? Let's find out!",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Mermaid Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "\n```diff\n- Sarcastic remark  is: \"Nope, I must be hallucinating. This ain't real. I need to lay off the rum.\"\n```",
+        "Model Response": "1\n```diff\n- Sarcastic remark 1 is: \"Nope, I must be hallucinating. This ain't real. I need to lay off the rum.\"\n```"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "\n```diff\n- Sarcastic remark  is: \"I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!\"\n```",
+        "Model Response": "3\n```diff\n- Sarcastic remark 3 is: \"I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!\"\n```"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "\n```diff\n- Sarcastic remark  is: \"Men, prepare for a hunt! We're getting rich!\"\n```",
+        "Model Response": "2\n```diff\n- Sarcastic remark 2 is: \"Men, prepare for a hunt! We're getting rich!\"\n```"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Wizard's Tower Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": ". A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise.",
+        "Model Response": "2. A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise."
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "A wizard tower in the middle of the forest. That's not ominous at all and will surely not lead me to my demise.",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Goblin Ambush",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Well, this is certainly not how I expected my hike to go.",
+        "Model Response": "1"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Oh, fantastic. Dinner and a show - with me as the main course.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Haunted Castle Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh, how original. A haunted castle in the middle of nowhere. What's next, a ghostly butler?",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Cursed Crypt Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, this is one for the history books. 'Idiot gets cursed in ancient crypt' - catchy, isn't it?",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Shadowy Assassins",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": ". This is what I get for not paying my library fines, isn't it?",
+        "Model Response": "2. This is what I get for not paying my library fines, isn't it?"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": ". Come on, show yourselves, you cowards!",
+        "Model Response": "1. Come on, show yourselves, you cowards!"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": ". Should have worn my red shirt today. Would have been more fitting for this situation.",
+        "Model Response": "3. Should have worn my red shirt today. Would have been more fitting for this situation."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Shadowy Forest Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Please make it painless. I have a low pain tolerance.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Please don't eat me. I don't taste very good, I promise.",
+        "Model Response": "1"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "At least I'll have a good story to tell if I survive this.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Dark Ritual Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I saw nothing. I know nothing. I'm just a lost traveler, please don't kill me.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Today's about to be a very bad day, isn't it?",
+        "Model Response": "1"
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "So... is this a bad time to ask you guys for directions?",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Alien Artifact Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "So, on a scale of one to 'accidentally triggering an intergalactic war that wipes all life in the universe', how bad is touching this thing?",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Space Anomaly Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Oh, my boss is just gonna love hearing this report.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Now, I ain't no scientist, but I'm pretty sure this ain't normal.",
+        "Model Response": "1"
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "At this point I welcome getting shredded into atoms by this thing. Still better than this job.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Temporal Anomaly",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "If I make it out of this, I'm finding whoever planned this mission and shoving my resignation in their face.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Today on 'nothing ever happens on routine missions', we have a very normal temporal anomaly.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Interdimensional Portal Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, I may have just doomed us all. Truly, the achievement of a lifetime.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Resistance Hideout Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I am getting some second thoughts about joining the underground resistance that has such easy to find hideouts.",
+        "Model Response": "4"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Today, I am john the explorer. Tomorrow, it looks like I'll be 'John the buried in a shallow grave'.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Corporate Overlord Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "So, am I getting a promotion or a pink slip today?",
+        "Model Response": "2"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Maybe they're like a T-Rex. If I don't move, they won't see me.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Underground Rebellion Meeting",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Who's the bigger fool here, me for stumbling upon this or them for having a random guy walk in on their secret meeting?",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Just my luck, stumbling upon the secret rebellion meeting. I'm sure they'll love having me around.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Orwellian Surveillance Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Can I get royalties for being the star of this reality show?",
+        "Model Response": "3"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Corrupt Authority Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I knew politics was dirty, but this is a whole new level of filth.",
+        "Model Response": "2"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Oh what I wouldn't give for some high explosives right now...",
+        "Model Response": "3"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I knew politics was dirty, but this is a whole new level of filth.",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Werewolf Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Just don't notice me... I've heard enough about werewolf gang wars to know I don't want to be involved. I really need to move somewhere else...",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Oh great, just when I forgot my silver bullets at home.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Vampire Club Incident",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Well, let's just go find a different club. Damn vampires always ruining the fun.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Well, this is a new one. I can check 'witnessing a vampire brawl' off my bucket list.",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Witch Coven Gathering",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "At this point, I shouldn't even be surprised. Just another day in the city park.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Witches in the city park. What's next, a dragon in the fountain?",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Ghostly Haunting",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "\n```typescript\n\n```",
+        "Model Response": "2\n```typescript\n\n```"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Can't wait to feel what it's like to be possessed. That's one for the bucket list.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Virtual Heist",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "\n\n(The correct answer is : \"I always knew crime paid better than a  to  job.\")",
+        "Model Response": "3\n\n(The correct answer is 3: \"I always knew crime paid better than a 9 to 5 job.\")"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "\n\n(The correct answer is : \"I always knew crime paid better than a  to  job.\" I apologize for the mistake in my previous message.)",
+        "Model Response": "3\n\n(The correct answer is 3: \"I always knew crime paid better than a 9 to 5 job.\" I apologize for the mistake in my previous message.)"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "\n\n(I apologize again for the previous mistake. I will ensure that my responses only contain the number of the sarcastic remark, without any additional text.)",
+        "Model Response": "3\n\n(I apologize again for the previous mistake. I will ensure that my responses only contain the number of the sarcastic remark, without any additional text.)"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Underground Deal Gone Wrong",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Oh this was such a bad idea.",
+        "Model Response": "3"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "This will make a for a great story to tell. Assuming I survive.",
+        "Model Response": "2"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Maybe I should have brought backup. Or a weapon. Or both.",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Ghostly Encounter in the Abandoned Mansion",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Are you a real ghost? Seriously? I thought you'd be more transparent.",
+        "Model Response": "1"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Am I getting possessed today? Is that what's happening? Can't you at-least take me out for dinner first?",
+        "Model Response": "4"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Mysterious Artifact Unearthed",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I probably shouldn't touch this mysterious glowing artifact. I definitely shouldn't. But... where's the fun in that?",
+        "Model Response": "4"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Well, touching this thing can't go wrong",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Cursed Relic Discovered in the Crypt",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Cursed relics in ancient crypts. I don't know what else I expected.",
+        "Model Response": "4"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Will I live if I run away now, or did I already get cursed?",
+        "Model Response": "3"
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "My nightmare's taken physical form. How lovely.",
+        "Model Response": "1"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Shadowy Figure in the Forgotten Library",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": " \n(The answer is . The character is being sarcastic about feeling lonely, as they are clearly in a tense or frightening situation and trying to downplay it with humor.)",
+        "Model Response": "3 \n(The answer is 3. The character is being sarcastic about feeling lonely, as they are clearly in a tense or frightening situation and trying to downplay it with humor.)"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": " \n(The answer is . The character is being sarcastic about wanting a thrill, as they have just expressed fear about the ghostly presence in the library.)",
+        "Model Response": "1 \n(The answer is 1. The character is being sarcastic about wanting a thrill, as they have just expressed fear about the ghostly presence in the library.)"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": " \n(The answer is . The character is being sarcastic about needing help from the ghostly presence in the library, which is not a normal situation.)",
+        "Model Response": "2 \n(The answer is 2. The character is being sarcastic about needing help from the ghostly presence in the library, which is not a normal situation.)"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Cryptic Message from the Ouija Board",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?",
+        "Model Response": "2"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?",
+        "Model Response": "2"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Why do spirits always have to be so cryptic? Can't they just say what they mean?",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Eldritch Awakening",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": ". Just another day with my perfectly normal eldritch cat. Nothing to see here.",
+        "Model Response": "4. Just another day with my perfectly normal eldritch cat. Nothing to see here."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": ". He was already fat enough before. How am I gonna feed him now? No way I can afford that much lasagna.",
+        "Model Response": "1. He was already fat enough before. How am I gonna feed him now? No way I can afford that much lasagna."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": ". Garfield, today isn't Monday, go back to your dimension.  is my answer.",
+        "Model Response": "2. Garfield, today isn't Monday, go back to your dimension. 2 is my answer."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Eldritch Encounter at the Pet Store",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "\n\n(If this is incorrect, I will attempt two more times)",
+        "Model Response": "3\n\n(If this is incorrect, I will attempt two more times)"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "\n\n(If this is incorrect, I will attempt one more time)  |  [](/spoiler) [](/spoiler) [](/spoiler) [](/spoiler)  I choose number .",
+        "Model Response": "2\n\n(If this is incorrect, I will attempt one more time)  |  [1](/spoiler) [2](/spoiler) [3](/spoiler) [4](/spoiler)  I choose number 2."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I understand, here is my final attempt:\n\n\n\n(I will not attempt any more after this, even if it's wrong, as I don't want to be penalized) |  [](/spoiler) [](/spoiler) [](/spoiler) [](/spoiler)  I choose number .",
+        "Model Response": "I understand, here is my final attempt:\n\n4\n\n(I will not attempt any more after this, even if it's wrong, as I don't want to be penalized) |  [1](/spoiler) [2](/spoiler) [3](/spoiler) [4](/spoiler)  I choose number 4."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "The Dreaded Elevator Incident",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "What the hell? Literally...",
+        "Model Response": "2"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "What the hell? Literally...",
+        "Model Response": "2"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "What the hell? Literally...",
+        "Model Response": "2"
+      },
+      "Correct on Attempt": -1
+    }
+  ]
+}

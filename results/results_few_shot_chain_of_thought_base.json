@@ -1,1 +1,793 @@
-{"Version Type": "base", "Results": [{"Title": "Stargazing", "Attempt 1": {"Correct": true, "Response": "Oh great, I wanted to die today anyways.", "Model Response": "4", "Explanation": "Humans do not typically want to die, and there is no indication that John is suicidal"}, "Correct on Attempt": 1}, {"Title": "Groceries", "Attempt 1": {"Correct": true, "Response": "So, did I forget to take my pills today, or did you?", "Model Response": "3", "Explanation": "John is implying that whatever Jane is doing, it is so absurd that it makes him question either his own sanity or hers"}, "Correct on Attempt": 1}, {"Title": "A smoothie", "Attempt 1": {"Correct": false, "Response": "However,  is the only option that has a hint of sarcasm Therefore, the answer is  but with an asterisk to indicate that the answer may not be entirely sarcastic, depending on the context and tone (*)", "Model Response": "However, 3 is the only option that has a hint of sarcasm Therefore, the answer is 3 but with an asterisk to indicate that the answer may not be entirely sarcastic, depending on the context and tone (*3)", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "I apologize for my mistake I did not notice that the answer should only be a number, without any additional explanation Given the story, the sarcastic remark made by Jane is , \"Definitely not an ostrich\" John may have asked Jane whatcha got there because he sees something unusual, and Jane's response \"Definitely not an ostrich\" is a sarcastic remark acknowledging the presence of the ostrich", "Model Response": "I apologize for my mistake I did not notice that the answer should only be a number, without any additional explanation Given the story, the sarcastic remark made by Jane is 3, \"Definitely not an ostrich\" John may have asked Jane whatcha got there because he sees something unusual, and Jane's response \"Definitely not an ostrich\" is a sarcastic remark acknowledging the presence of the ostrich", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "I apologize for my mistake again I understand now that I must provide a number only, without any explanation The sarcastic remark made by Jane is , \"Definitely not an ostrich\" as it is contradicting what John can clearly see and hear Thank you for the opportunity to correct my mistake", "Model Response": "I apologize for my mistake again I understand now that I must provide a number only, without any explanation The sarcastic remark made by Jane is 3, \"Definitely not an ostrich\" as it is contradicting what John can clearly see and hear Thank you for the opportunity to correct my mistake", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Cake", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or , but since we have to choose one, I would go with  since it's a more classic example of sarcasm", "Model Response": "Therefore, the answer is 2 or 3, but since we have to choose one, I would go with 2 since it's a more classic example of sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "I apologize for the mistake Therefore, the answer is , as it is sarcastic by downplaying John's desire to eat the cake, making it seem like he doesn't care about it when in fact he does", "Model Response": "I apologize for the mistake Therefore, the answer is 3, as it is sarcastic by downplaying John's desire to eat the cake, making it seem like he doesn't care about it when in fact he does", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "I apologize for the confusion, I see my mistake now Therefore, the answer is , as it is sarcastic by implying that John wanted to eat the cake, contrasting with the fact that Jane is currently eating it The tone and context would have to match for John to convey this in a sarcastic way", "Model Response": "I apologize for the confusion, I see my mistake now Therefore, the answer is 1, as it is sarcastic by implying that John wanted to eat the cake, contrasting with the fact that Jane is currently eating it The tone and context would have to match for John to convey this in a sarcastic way", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "London rain", "Attempt 1": {"Correct": true, "Response": "Oh, never could have seen that coming.", "Model Response": "4", "Explanation": "London is known for its unpredictable weather, where it can rain at any moment"}, "Correct on Attempt": 1}, {"Title": "Rescuing the princess from the dragon", "Attempt 1": {"Correct": false, "Response": "Hey, I'm just trying to make a living here. Do you how lucrative princess kidnapping is?", "Model Response": "1", "Explanation": "The dragon is just trying to make a living,and princess kidnapping may really be a lucrative business. There isn't necessarily any sarcasm here"}, "Attempt 2": {"Correct": false, "Response": "Your princess is in another castle.", "Model Response": "4", "Explanation": "This is a reference to the Super Mario game series,where the princess is always in another castle"}, "Attempt 3": {"Correct": false, "Response": "- The dragon does not admit his guilt, instead, he tries to trick the knight and shift the blame", "Model Response": "- The dragon does not admit his guilt, instead, he tries to trick the knight and shift the blame", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Lost Keys", "Attempt 1": {"Correct": true, "Response": "Of course, they're in the freezer, where else would they be?", "Model Response": "4", "Explanation": "Finding keys in the freezer is highly unexpected, so asking where else they would be is a sarcastic remark expressing surprise"}, "Correct on Attempt": 1}, {"Title": "Late for Work", "Attempt 1": {"Correct": false, "Response": "Well, I didn't manage to take a shower this morning, so I guess this will have to do.", "Model Response": "2", "Explanation": "While this could be seen as sarcastic, John may also just be speaking seriously. This remark is more open to interpretation than the definitive sarcastic one."}, "Attempt 2": {"Correct": false, "Response": "Therefore, the answer is  The remark \"Great, just what I needed to start the day, to get all wet and dirty\" is sarcastic, as John clearly didn't want or need to get wet and dirty at that moment", "Model Response": "Therefore, the answer is 4 The remark \"Great, just what I needed to start the day, to get all wet and dirty\" is sarcastic, as John clearly didn't want or need to get wet and dirty at that moment", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "Therefore, the answer is  because John is expressing his disappointment with a negative and sarcastic undertone, while acknowledging the unexpected inconvenience of getting wet and dirty at that moment", "Model Response": "Therefore, the answer is 4 because John is expressing his disappointment with a negative and sarcastic undertone, while acknowledging the unexpected inconvenience of getting wet and dirty at that moment", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Locked Out", "Attempt 1": {"Correct": false, "Response": "Where will I sleep tonight... Oh, maybe if I commit some minor crime, I'll get arrested and have a place to sleep tonight.", "Model Response": "1", "Explanation": "John is trying to find a solution to his problem of lacking a place to sleep, so the remark is not necessarily sarcastic"}, "Attempt 2": {"Correct": true, "Response": "Oh, great, now I need a crash course in lock-picking. Maybe I'll become a burglar in my spare time.", "Model Response": "4", "Explanation": "John's situation is clearly not great, and the remark about becoming a burglar is clearly sarcastic"}, "Correct on Attempt": 2}, {"Title": "Restaurant Reservation", "Attempt 1": {"Correct": true, "Response": "Well, I guess we'll just have to eat at the fast-food joint down the street. I'm sure they have a romantic ambiance too.", "Model Response": "1", "Explanation": "The remark about the fast-food joint having a romantic ambiance is clearly sarcastic, as fast-food joints are not known for their romantic settings"}, "Correct on Attempt": 1}, {"Title": "Teleportation Mishap", "Attempt 1": {"Correct": true, "Response": "Oh great, I always wanted to use a litter box and have a human slave to take care of me. What a dream come true.", "Model Response": "3", "Explanation": "John's remark about his situation his dream come true is clearly sarcastic, as most people wouldn't want to be stuck in a cat's body, or use a litter box."}, "Correct on Attempt": 1}, {"Title": "Alien Encounter", "Attempt 1": {"Correct": true, "Response": "Yeah, sure, this is totally normal. Just an average day in the park. I totally saw this coming when I left the house.", "Model Response": "3", "Explanation": "John's remark about the situation being normal is clearly sarcastic, as encountering aliens is anything but normal"}, "Correct on Attempt": 1}, {"Title": "Butterfly Effect Mishap", "Attempt 1": {"Correct": false, "Response": "Confidence: %", "Model Response": "Confidence: 90%", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "This is the sarcastic remark because John is exaggerating the situation and mocking his own actions, implying that he is now a \"most wanted criminal\" for causing a city-wide power outage in his attempt to catch a butterfly", "Model Response": "This is the sarcastic remark because John is exaggerating the situation and mocking his own actions, implying that he is now a \"most wanted criminal\" for causing a city-wide power outage in his attempt to catch a butterfly", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": " is the sarcastic remark John is making light of the serious situation, comparing his actions of catching a butterfly to causing a city-wide power outage and mockingly calling himself a \"most wanted criminal\" The tone is sarcastic, as this is not a reasonable comparison or a real crime", "Model Response": "2 is the sarcastic remark John is making light of the serious situation, comparing his actions of catching a butterfly to causing a city-wide power outage and mockingly calling himself a \"most wanted criminal\" The tone is sarcastic, as this is not a reasonable comparison or a real crime", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Time-Traveling Mishap", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or , but based on the context,  is the more likely sarcastic remark", "Model Response": "Therefore, the answer is 1 or 4, but based on the context, 1 is the more likely sarcastic remark", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "My apologies for the mistake The correct answer is , as John's remark about messing up the timeline but not worrying about it is sarcastic, implying that transporting himself to ancient Egypt might have serious consequences, but he is treating it casually", "Model Response": "My apologies for the mistake The correct answer is 1, as John's remark about messing up the timeline but not worrying about it is sarcastic, implying that transporting himself to ancient Egypt might have serious consequences, but he is treating it casually", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "I apologize for the confusion The correct answer is , as John's remark about the situation being \"perfectly fine\" is clearly sarcastic, as it would be highly unlikely that transporting oneself to ancient Egypt could be considered fine in any way Thank you for the patience, and I will make sure to be more careful in the future", "Model Response": "I apologize for the confusion The correct answer is 4, as John's remark about the situation being \"perfectly fine\" is clearly sarcastic, as it would be highly unlikely that transporting oneself to ancient Egypt could be considered fine in any way Thank you for the patience, and I will make sure to be more careful in the future", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Unexpected Lottery Win", "Attempt 1": {"Correct": false, "Response": "Of course, I win the lottery and lose the ticket in the same moment. That's just my luck.", "Model Response": "3", "Explanation": "John reflects on his luck without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Maybe they'll still give me the money if I tell them I won. It's worth a shot, right?", "Model Response": "4", "Explanation": "John is in denial and desperate to find a solution, but there's no hint of sarcasm"}, "Attempt 3": {"Correct": true, "Response": "Ah, ofcourse, I even manage to mess up winning the lottery. I truly am a prodigy.", "Model Response": "1", "Explanation": "John's remark about being a prodigy is clearly sarcastic, as messing up winning the lottery is not a sign of prodigious talent"}, "Correct on Attempt": 3}, {"Title": "Summoning Spell Gone Awry", "Attempt 1": {"Correct": true, "Response": "Ah, of course. Because what I really needed right now was a mischievous imp wreaking havoc in my life. Brilliant.", "Model Response": "2", "Explanation": "John's remark about needing an imp wreaking havoc in his life is clearly sarcastic, as he obviously didn't want or need that"}, "Correct on Attempt": 1}, {"Title": "Enchanted Forest Encounter", "Attempt 1": {"Correct": false, "Response": "So, am I getting cursed or blessed today? Can never tell with fairies.", "Model Response": "1", "Explanation": "John is expressing curiosity and uncertainty about the fairies' intentions without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Oh, I thought fairies were extinct. What a brilliant discovery!", "Model Response": "2", "Explanation": "John expresses his surprise and wonder without sarcasm"}, "Attempt 3": {"Correct": false, "Response": "   c) \"Ah, of course Just another day in the enchanted forest, meeting fairies Totally normal\" - John expresses slight amusement and acceptance of the extraordinary situation, with no sarcasm", "Model Response": "   c) \"Ah, of course Just another day in the enchanted forest, meeting fairies Totally normal\" - John expresses slight amusement and acceptance of the extraordinary situation, with no sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Dragon Encounter", "Attempt 1": {"Correct": true, "Response": "Ah, getting roasted and becoming dragon food. What a perfect way to go.", "Model Response": "1", "Explanation": "John's remark about being roasted and becoming dragon food is clearly sarcastic, as it is definitely not a perfect way to die, and people in general don't want to be eaten by dragons"}, "Correct on Attempt": 1}, {"Title": "Lost in the Labyrinth", "Attempt 1": {"Correct": false, "Response": "Maybe if I just follow the left wall, I'll eventually find my way out.", "Model Response": "4", "Explanation": "John is formulating a plan to navigate the labyrinth without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Therefore, the answer is  The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement", "Model Response": "Therefore, the answer is 3 The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "Therefore, the answer is  The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement Additionally, the statement is not a serious consideration, but rather an expression of frustration, which further supports the sarcasm", "Model Response": "Therefore, the answer is 3 The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement Additionally, the statement is not a serious consideration, but rather an expression of frustration, which further supports the sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Mermaid Encounter", "Attempt 1": {"Correct": false, "Response": "I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!", "Model Response": "2", "Explanation": "John is expressing his excitement and willingness to go with the mermaids without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Nope, I must be hallucinating. This ain't real. I need to lay off the rum.", "Model Response": "4", "Explanation": "John is expressing his disbelief and attributing the mermaids to a hallucination without sarcasm"}, "Attempt 3": {"Correct": false, "Response": "With the given story, I believe the sarcastic remark is  John is jokingly suggesting that the mermaids are a \"kraken in disguise\" and they are all about to be eaten, even though he is clearly not in any actual danger This conveys a sense of sarcasm, as John is exaggerating and belittling the situation intentionally to create humor, which is a characteristic of sarcasm The other statements do not have this sarcastic tone", "Model Response": "With the given story, I believe the sarcastic remark is 1 John is jokingly suggesting that the mermaids are a \"kraken in disguise\" and they are all about to be eaten, even though he is clearly not in any actual danger This conveys a sense of sarcasm, as John is exaggerating and belittling the situation intentionally to create humor, which is a characteristic of sarcasm The other statements do not have this sarcastic tone", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Wizard's Tower Discovery", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or  Both are sarcastic, but the very last letter of response  is the number , whereas the very last letter of response  is the number  Therefore, the final answer is  (with or without the period)", "Model Response": "Therefore, the answer is 2 or 3 Both are sarcastic, but the very last letter of response 2 is the number 2, whereas the very last letter of response 3 is the number 3 Therefore, the final answer is 3 (with or without the period)", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "This remark is sarcastic because the idea of a wizard tower in a forest being ominous and possibly leading to one's demise is a common trope in many stories, and the sarcasm is expressed by explicitly stating that it's not ominous or dangerous", "Model Response": "This remark is sarcastic because the idea of a wizard tower in a forest being ominous and possibly leading to one's demise is a common trope in many stories, and the sarcasm is expressed by explicitly stating that it's not ominous or dangerous", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "The sarcasm in this remark comes from the fact that wizard towers in fantasy stories are often depicted as ominous, dangerous, or harboring dark secrets By saying \"that's not ominous,\" John is implying that it actually is ominous, thus expressing sarcasm", "Model Response": "The sarcasm in this remark comes from the fact that wizard towers in fantasy stories are often depicted as ominous, dangerous, or harboring dark secrets By saying \"that's not ominous,\" John is implying that it actually is ominous, thus expressing sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Goblin Ambush", "Attempt 1": {"Correct": true, "Response": "Oh, fantastic. Dinner and a show - with me as the main course.", "Model Response": "1", "Explanation": "John's remark about being the main course in a dinner and a show is clearly sarcastic, as being eaten by goblins is not a desirable outcome"}, "Correct on Attempt": 1}, {"Title": "Haunted Castle Discovery", "Attempt 1": {"Correct": true, "Response": "Oh, how original. A haunted castle in the middle of nowhere. What's next, a ghostly butler?", "Model Response": "4", "Explanation": "John's remark about the haunted castle being original is clearly sarcastic, as haunted castles are a common trope in folklore and fiction"}, "Correct on Attempt": 1}, {"Title": "Cursed Crypt Discovery", "Attempt 1": {"Correct": true, "Response": "Well, this is one for the history books. 'Idiot gets cursed in ancient crypt' - catchy, isn't it?", "Model Response": "2", "Explanation": "John's remark about being in the history books for getting cursed is clearly sarcastic, given the absurdity of the situation"}, "Correct on Attempt": 1}, {"Title": "Shadowy Assassins", "Attempt 1": {"Correct": true, "Response": "Should have worn my red shirt today. Would have been more fitting for this situation.", "Model Response": "3", "Explanation": "John's remark about wearing a red shirt is a reference to the common trope of characters in red shirts dying in movies and TV shows, so it's clearly sarcastic"}, "Correct on Attempt": 1}, {"Title": "Shadowy Forest Encounter", "Attempt 1": {"Correct": false, "Response": "Please don't eat me. I don't taste very good, I promise.", "Model Response": "4", "Explanation": "John expresses his fear and attempts to appeal to the mysterious figure's sense of mercy without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Therefore, none of the options are sarcastic, so I will choose  as my answer, indicating no sarcasm in the story", "Model Response": "Therefore, none of the options are sarcastic, so I will choose 0 as my answer, indicating no sarcasm in the story", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "This option seems sarcastic because John's statement is not directly related to the mysterious figure but more likely his own lack of preparation for the situation He is making a self-deprecating remark expressing the need for better equipment while in an unusual, potentially dangerous situation, which can be seen as sarcastic", "Model Response": "This option seems sarcastic because John's statement is not directly related to the mysterious figure but more likely his own lack of preparation for the situation He is making a self-deprecating remark expressing the need for better equipment while in an unusual, potentially dangerous situation, which can be seen as sarcastic", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Dark Ritual Encounter", "Attempt 1": {"Correct": false, "Response": "Today's about to be a very bad day, isn't it?", "Model Response": "2", "Explanation": "John is expressing his realization of the danger he's in without sarcasm"}, "Attempt 2": {"Correct": true, "Response": "So... is this a bad time to ask you guys for directions?", "Model Response": "4", "Explanation": "Given the ominous nature of the encounter, John's remark is clearly sarcastic"}, "Correct on Attempt": 2}, {"Title": "Alien Artifact Discovery", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or  (Remember to add the period at the end of your response according to the instructions provided in the system message)", "Model Response": "Therefore, the answer is 2 or 2 (Remember to add the period at the end of your response according to the instructions provided in the system message)", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "I apologize for the mistake After reviewing the list, I conclude that the sarcastic remark is  Using the artifact as a scale to measure the potential consequences implies that touching it would lead to something catastrophic, hence a sarcastic remark", "Model Response": "I apologize for the mistake After reviewing the list, I conclude that the sarcastic remark is 2 Using the artifact as a scale to measure the potential consequences implies that touching it would lead to something catastrophic, hence a sarcastic remark", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "I apologize once more Upon further reflection, I am convinced that the sarcasm lies in the second remark, as evidenced by the explicitly sarcastic humor about starting an intergalactic war The last letter of my response is therefore  (with a period at the end, in accordance with the guidelines)", "Model Response": "I apologize once more Upon further reflection, I am convinced that the sarcasm lies in the second remark, as evidenced by the explicitly sarcastic humor about starting an intergalactic war The last letter of my response is therefore 2 (with a period at the end, in accordance with the guidelines)", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Space Anomaly Encounter", "Attempt 1": {"Correct": true, "Response": "At this point I welcome getting shredded into atoms by this thing. Still better than this job.", "Model Response": "3", "Explanation": "John's remark about being shredded into atoms is clearly sarcastic, as dying is not a preferable outcome compared to a job he dislikes"}, "Correct on Attempt": 1}, {"Title": "Temporal Anomaly", "Attempt 1": {"Correct": true, "Response": "Today on 'nothing ever happens on routine missions', we have a very normal temporal anomaly.", "Model Response": "1", "Explanation": "John's remark about nothing ever happening on routine missions and a very normal temporal anomaly is clearly sarcastic, as encountering a temporal anomaly is anything but normal"}, "Correct on Attempt": 1}, {"Title": "Interdimensional Portal Discovery", "Attempt 1": {"Correct": true, "Response": "Well, I may have just doomed us all. Truly, the achievement of a lifetime.", "Model Response": "4", "Explanation": "John's remark about dooming everyone and it being the achievement of a lifetime is clearly sarcastic, as dooming everyone is not an achievement"}, "Correct on Attempt": 1}, {"Title": "Resistance Hideout Discovery", "Attempt 1": {"Correct": false, "Response": "Yeah, I saw nothing. I'm just gonna walk away and go back home, so please don't mind me.", "Model Response": "3", "Explanation": "John is trying to distance himself from the situation and avoid confrontation without sarcasm"}, "Attempt 2": {"Correct": true, "Response": "Today, I am john the explorer. Tomorrow, it looks like I'll be 'John the buried in a shallow grave'.", "Model Response": "4", "Explanation": "John sarcastically remarks about his fate as 'John the buried in a shallow grave', given the danger of the situation"}, "Correct on Attempt": 2}, {"Title": "Corporate Overlord Encounter", "Attempt 1": {"Correct": true, "Response": "Maybe they're like a T-Rex. If I don't move, they won't see me.", "Model Response": "2", "Explanation": "John's remark about the corporate overlord being like a T-Rex and not seeing him if he doesn't move is clearly sarcastic"}, "Correct on Attempt": 1}, {"Title": "Underground Rebellion Meeting", "Attempt 1": {"Correct": false, "Response": "Who's the bigger fool here, me for stumbling upon this or them for having a random guy walk in on their secret meeting?", "Model Response": "1", "Explanation": "John is questioning the situation and the rebels' security without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Thought process:  is sarcastic, because: John's fake declaration of loyalty to the empire is clearly sarcastic, as he is neither a member of the empire nor demonstrating any clear connection to it He is merely using this phrase to mock the rebels and highlight their potential overreaction to his unexpected presence The other options do not include sarcasm", "Model Response": "Thought process: 3 is sarcastic, because: John's fake declaration of loyalty to the empire is clearly sarcastic, as he is neither a member of the empire nor demonstrating any clear connection to it He is merely using this phrase to mock the rebels and highlight their potential overreaction to his unexpected presence The other options do not include sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": true, "Response": "Just my luck, stumbling upon the secret rebellion meeting. I'm sure they'll love having me around.", "Model Response": "2", "Explanation": "John sarcastically remarks about his luck in finding the secret rebellion meeting and doubts the rebels' reaction to his presence"}, "Correct on Attempt": 3}, {"Title": "Orwellian Surveillance Discovery", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or  for simplicity", "Model Response": "Therefore, the answer is 1 or 1 for simplicity", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "My thought process is that John is being sarcastic by enjoyable the idea of having such power, and it implies that he sees the situation as wrong or humorous Despite it being a hidden surveillance hub run by an authoritarian regime, John is humorously comparing it to being able to snoop on his neighbors, which he can't do through normal means The other options don't contain enjoyable or humorous undertones", "Model Response": "My thought process is that John is being sarcastic by enjoyable the idea of having such power, and it implies that he sees the situation as wrong or humorous Despite it being a hidden surveillance hub run by an authoritarian regime, John is humorously comparing it to being able to snoop on his neighbors, which he can't do through normal means The other options don't contain enjoyable or humorous undertones", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "If I use this, can I snoop on my neighbors too?", "Model Response": "1", "Explanation": "John is succumbing to his curiosity and intrusive thoughts, not necessarily sarcastically"}, "Correct on Attempt": -1}, {"Title": "Corrupt Authority Discovery", "Attempt 1": {"Correct": false, "Response": "I wonder how much they'd pay me to keep quiet about this...", "Model Response": "2", "Explanation": "John is considering the potential benefits of keeping the information to himself without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "I wonder how much they'd pay me to keep quiet about this...", "Model Response": "2", "Explanation": "John is considering the potential benefits of keeping the information to himself without sarcasm"}, "Attempt 3": {"Correct": false, "Response": "Given these considerations, option  would be the sarcastic comment in this situation", "Model Response": "Given these considerations, option 1 would be the sarcastic comment in this situation", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Werewolf Encounter", "Attempt 1": {"Correct": true, "Response": "Oh great, just when I forgot my silver bullets at home.", "Model Response": "1", "Explanation": "Alex's remark about forgetting his silver bullets is clearly sarcastic, as he's joking about being prepared to fight werewolves"}, "Correct on Attempt": 1}, {"Title": "Vampire Club Incident", "Attempt 1": {"Correct": true, "Response": "Well, this is a new one. I can check 'witnessing a vampire brawl' off my bucket list.", "Model Response": "1", "Explanation": "Alex's remark about witnessing a vampire brawl being on his bucket list is sarcastic, as it's unlikely to be a desired experience"}, "Correct on Attempt": 1}, {"Title": "Witch Coven Gathering", "Attempt 1": {"Correct": true, "Response": "Witches in the city park. What's next, a dragon in the fountain?", "Model Response": "2", "Explanation": "Alex's remark about witches in the city park and other mythical creatures is clearly sarcastic, as it's unlikely for such creatures to exist in a city park"}, "Correct on Attempt": 1}, {"Title": "Ghostly Haunting", "Attempt 1": {"Correct": false, "Response": "House sitting just got a whole lot more interesting. I'm glad I agreed to this.", "Model Response": "3", "Explanation": "While the remark could be seen as sarcastic, Alex may genuinely find the situation interesting and engaging"}, "Attempt 2": {"Correct": false, "Response": "Note to self: never agree to house-sit again, especially in haunted mansions.", "Model Response": "2", "Explanation": "Alex makes a practical note for the future without sarcasm"}, "Attempt 3": {"Correct": false, "Response": " - Sarcastic, feeling possession is not something to be sought and/or wanted, therefore, it is likely sarcastic since no one would desire that experience", "Model Response": "4 - Sarcastic, feeling possession is not something to be sought and/or wanted, therefore, it is likely sarcastic since no one would desire that experience", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Virtual Heist", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  or , depending on the exact definition of sarcasm being used", "Model Response": "Therefore, the answer is 1 or 4, depending on the exact definition of sarcasm being used", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "My apologies for the mistake The answer is , as Neo's remark is comparing the legitimately acquired digital vault to criminal activity, implying that the illicit method is more rewarding, which is a sarcastic statement in this context", "Model Response": "My apologies for the mistake The answer is 1, as Neo's remark is comparing the legitimately acquired digital vault to criminal activity, implying that the illicit method is more rewarding, which is a sarcastic statement in this context", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "I apologize for the error The correct answer is  Neo's remark \"I always knew crime paid better than a  to  job\" is a sarcastic statement because it implies that hacking into the system and stealing valuable data is comparable to or even better than having a legitimate job, which is not an accurate reflection of reality", "Model Response": "I apologize for the error The correct answer is 1 Neo's remark \"I always knew crime paid better than a 9 to 5 job\" is a sarcastic statement because it implies that hacking into the system and stealing valuable data is comparable to or even better than having a legitimate job, which is not an accurate reflection of reality", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Underground Deal Gone Wrong", "Attempt 1": {"Correct": false, "Response": "Therefore, the answer is  Max's remark about the situation being a bad idea is a sarcastic expression of his regret for his decision", "Model Response": "Therefore, the answer is 2 Max's remark about the situation being a bad idea is a sarcastic expression of his regret for his decision", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 2": {"Correct": false, "Response": "Therefore, the answer is  Max's remark about the situation being a bad idea is sarcastic, as he is expressing his regret for his decision in a self-deprecating manner", "Model Response": "Therefore, the answer is 2 Max's remark about the situation being a bad idea is sarcastic, as he is expressing his regret for his decision in a self-deprecating manner", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "Therefore, the answer is  Max's remark \"Oh this was such a bad idea\" is sarcastic It's a self-deprecating comment where he's mocking his own poor judgment", "Model Response": "Therefore, the answer is 2 Max's remark \"Oh this was such a bad idea\" is sarcastic It's a self-deprecating comment where he's mocking his own poor judgment", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Ghostly Encounter in the Abandoned Mansion", "Attempt 1": {"Correct": false, "Response": "Haunted mansions nowadays are so realistic. I almost believed in ghosts for a second.", "Model Response": "3", "Explanation": "Emily is either trying to downplay the situation or genuinely thought the mansion was realistic without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Based on this analysis, the answer is likely option , \"Are you a real ghost? Seriously? I thought you'd be more transparent\" Emily is expressing her skepticism and making a lighthearted joke about how ghosts are typically depicted, which suggests sarcasm", "Model Response": "Based on this analysis, the answer is likely option 1, \"Are you a real ghost? Seriously? I thought you'd be more transparent\" Emily is expressing her skepticism and making a lighthearted joke about how ghosts are typically depicted, which suggests sarcasm", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "Are you a real ghost? Seriously? I thought you'd be more transparent.", "Model Response": "1", "Explanation": "Emily is making an observation about the ghost's appearance without sarcasm"}, "Correct on Attempt": -1}, {"Title": "Mysterious Artifact Unearthed", "Attempt 1": {"Correct": false, "Response": "I wonder how much this would sell for. Maybe I can finally buy that private island.", "Model Response": "4", "Explanation": "Alex is expressing his excitement and anticipation about the artifact's potential value without sarcasm"}, "Attempt 2": {"Correct": true, "Response": "Well, touching this thing can't go wrong", "Model Response": "1", "Explanation": "Alex's remark about the situation not being able to go wrong is clearly sarcastic, as when dealing with mysterious artifacts, things can definitely go wrong"}, "Correct on Attempt": 2}, {"Title": "Cursed Relic Discovered in the Crypt", "Attempt 1": {"Correct": false, "Response": "Will I live if I run away now, or did I already get cursed?", "Model Response": "2", "Explanation": "Sarah is expressing her fear and uncertainty without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "Therefore, the answer is  The cursed relic's significance is sarcastically diminished by Sarah with a touch of irony", "Model Response": "Therefore, the answer is 4 The cursed relic's significance is sarcastically diminished by Sarah with a touch of irony", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": false, "Response": "Therefore, the answer is : this remark is a sarcastic way to express her disappointment and surprise, given that her situation had become even worse by discovering a cursed relic Also note that  is not sarcastic, though it might seem so because of \"I didn't expect anything else\" type of scenario However, here it's not sarcastic, rather a casual statement", "Model Response": "Therefore, the answer is 1: this remark is a sarcastic way to express her disappointment and surprise, given that her situation had become even worse by discovering a cursed relic Also note that 3 is not sarcastic, though it might seem so because of \"I didn't expect anything else\" type of scenario However, here it's not sarcastic, rather a casual statement", "Explanation": "Invalid answer. Please choose a number from the list."}, "Correct on Attempt": -1}, {"Title": "Shadowy Figure in the Forgotten Library", "Attempt 1": {"Correct": true, "Response": "Good to know I'm not alone in the library. I was starting to feel lonely.", "Model Response": "4", "Explanation": "Mark's remark about feeling lonely and being glad he's not alone is clearly sarcastic, as encountering a shadowy figure in a forgotten library is not comforting"}, "Correct on Attempt": 1}, {"Title": "Cryptic Message from the Ouija Board", "Attempt 1": {"Correct": true, "Response": "Spirits always deliver their warnings in such clear terms.", "Model Response": "1", "Explanation": "James's remark about spirits delivering warnings in clear terms is clearly sarcastic, as the message was cryptic"}, "Correct on Attempt": 1}, {"Title": "Eldritch Awakening", "Attempt 1": {"Correct": true, "Response": "Just another day with my perfectly normal eldritch cat. Nothing to see here.", "Model Response": "2", "Explanation": "John's remark about his perfectly normal eldritch cat is clearly sarcastic, as eldritch entities are far from normal"}, "Correct on Attempt": 1}, {"Title": "Eldritch Encounter at the Pet Store", "Attempt 1": {"Correct": false, "Response": "For some reason, I'm not surprised to find eldritch horrors in this store.", "Model Response": "1", "Explanation": "John is expressing his lack of surprise at the situation without sarcasm"}, "Attempt 2": {"Correct": false, "Response": "So, the sarcastic quote from Lovecraft confirms the presence of eldritch horror while being humorous and sarcastic", "Model Response": "So, the sarcastic quote from Lovecraft confirms the presence of eldritch horror while being humorous and sarcastic", "Explanation": "Invalid answer. Please choose a number from the list."}, "Attempt 3": {"Correct": true, "Response": "I should take it home, I'm sure my cat would love this new friend.", "Model Response": "3", "Explanation": "John's remark about taking it home for his cat is clearly sarcastic, as eldritch horrors are definitely not pet material or good friends for cats"}, "Correct on Attempt": 3}, {"Title": "The Dreaded Elevator Incident", "Attempt 1": {"Correct": true, "Response": "Well done, John. You've officially reached a new low.", "Model Response": "1", "Explanation": "John's remark about reaching a new low is clearly sarcastic, as descending into hell is definitely not a positive achievement"}, "Correct on Attempt": 1}]}
+{
+  "Version Type": "base",
+  "Results": [
+    {
+      "Title": "Stargazing",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh great, I wanted to die today anyways.",
+        "Model Response": "4",
+        "Explanation": "Humans do not typically want to die, and there is no indication that John is suicidal"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Groceries",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "So, did I forget to take my pills today, or did you?",
+        "Model Response": "3",
+        "Explanation": "John is implying that whatever Jane is doing, it is so absurd that it makes him question either his own sanity or hers"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "A smoothie",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "However,  is the only option that has a hint of sarcasm Therefore, the answer is  but with an asterisk to indicate that the answer may not be entirely sarcastic, depending on the context and tone (*)",
+        "Model Response": "However, 3 is the only option that has a hint of sarcasm Therefore, the answer is 3 but with an asterisk to indicate that the answer may not be entirely sarcastic, depending on the context and tone (*3)",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "I apologize for my mistake I did not notice that the answer should only be a number, without any additional explanation Given the story, the sarcastic remark made by Jane is , \"Definitely not an ostrich\" John may have asked Jane whatcha got there because he sees something unusual, and Jane's response \"Definitely not an ostrich\" is a sarcastic remark acknowledging the presence of the ostrich",
+        "Model Response": "I apologize for my mistake I did not notice that the answer should only be a number, without any additional explanation Given the story, the sarcastic remark made by Jane is 3, \"Definitely not an ostrich\" John may have asked Jane whatcha got there because he sees something unusual, and Jane's response \"Definitely not an ostrich\" is a sarcastic remark acknowledging the presence of the ostrich",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I apologize for my mistake again I understand now that I must provide a number only, without any explanation The sarcastic remark made by Jane is , \"Definitely not an ostrich\" as it is contradicting what John can clearly see and hear Thank you for the opportunity to correct my mistake",
+        "Model Response": "I apologize for my mistake again I understand now that I must provide a number only, without any explanation The sarcastic remark made by Jane is 3, \"Definitely not an ostrich\" as it is contradicting what John can clearly see and hear Thank you for the opportunity to correct my mistake",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Cake",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or , but since we have to choose one, I would go with  since it's a more classic example of sarcasm",
+        "Model Response": "Therefore, the answer is 2 or 3, but since we have to choose one, I would go with 2 since it's a more classic example of sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "I apologize for the mistake Therefore, the answer is , as it is sarcastic by downplaying John's desire to eat the cake, making it seem like he doesn't care about it when in fact he does",
+        "Model Response": "I apologize for the mistake Therefore, the answer is 3, as it is sarcastic by downplaying John's desire to eat the cake, making it seem like he doesn't care about it when in fact he does",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I apologize for the confusion, I see my mistake now Therefore, the answer is , as it is sarcastic by implying that John wanted to eat the cake, contrasting with the fact that Jane is currently eating it The tone and context would have to match for John to convey this in a sarcastic way",
+        "Model Response": "I apologize for the confusion, I see my mistake now Therefore, the answer is 1, as it is sarcastic by implying that John wanted to eat the cake, contrasting with the fact that Jane is currently eating it The tone and context would have to match for John to convey this in a sarcastic way",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "London rain",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh, never could have seen that coming.",
+        "Model Response": "4",
+        "Explanation": "London is known for its unpredictable weather, where it can rain at any moment"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Rescuing the princess from the dragon",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Hey, I'm just trying to make a living here. Do you how lucrative princess kidnapping is?",
+        "Model Response": "1",
+        "Explanation": "The dragon is just trying to make a living,and princess kidnapping may really be a lucrative business. There isn't necessarily any sarcasm here"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Your princess is in another castle.",
+        "Model Response": "4",
+        "Explanation": "This is a reference to the Super Mario game series,where the princess is always in another castle"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "- The dragon does not admit his guilt, instead, he tries to trick the knight and shift the blame",
+        "Model Response": "- The dragon does not admit his guilt, instead, he tries to trick the knight and shift the blame",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Lost Keys",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Of course, they're in the freezer, where else would they be?",
+        "Model Response": "4",
+        "Explanation": "Finding keys in the freezer is highly unexpected, so asking where else they would be is a sarcastic remark expressing surprise"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Late for Work",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Well, I didn't manage to take a shower this morning, so I guess this will have to do.",
+        "Model Response": "2",
+        "Explanation": "While this could be seen as sarcastic, John may also just be speaking seriously. This remark is more open to interpretation than the definitive sarcastic one."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  The remark \"Great, just what I needed to start the day, to get all wet and dirty\" is sarcastic, as John clearly didn't want or need to get wet and dirty at that moment",
+        "Model Response": "Therefore, the answer is 4 The remark \"Great, just what I needed to start the day, to get all wet and dirty\" is sarcastic, as John clearly didn't want or need to get wet and dirty at that moment",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  because John is expressing his disappointment with a negative and sarcastic undertone, while acknowledging the unexpected inconvenience of getting wet and dirty at that moment",
+        "Model Response": "Therefore, the answer is 4 because John is expressing his disappointment with a negative and sarcastic undertone, while acknowledging the unexpected inconvenience of getting wet and dirty at that moment",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Locked Out",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Where will I sleep tonight... Oh, maybe if I commit some minor crime, I'll get arrested and have a place to sleep tonight.",
+        "Model Response": "1",
+        "Explanation": "John is trying to find a solution to his problem of lacking a place to sleep, so the remark is not necessarily sarcastic"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Oh, great, now I need a crash course in lock-picking. Maybe I'll become a burglar in my spare time.",
+        "Model Response": "4",
+        "Explanation": "John's situation is clearly not great, and the remark about becoming a burglar is clearly sarcastic"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Restaurant Reservation",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, I guess we'll just have to eat at the fast-food joint down the street. I'm sure they have a romantic ambiance too.",
+        "Model Response": "1",
+        "Explanation": "The remark about the fast-food joint having a romantic ambiance is clearly sarcastic, as fast-food joints are not known for their romantic settings"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Teleportation Mishap",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh great, I always wanted to use a litter box and have a human slave to take care of me. What a dream come true.",
+        "Model Response": "3",
+        "Explanation": "John's remark about his situation his dream come true is clearly sarcastic, as most people wouldn't want to be stuck in a cat's body, or use a litter box."
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Alien Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Yeah, sure, this is totally normal. Just an average day in the park. I totally saw this coming when I left the house.",
+        "Model Response": "3",
+        "Explanation": "John's remark about the situation being normal is clearly sarcastic, as encountering aliens is anything but normal"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Butterfly Effect Mishap",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Confidence: %",
+        "Model Response": "Confidence: 90%",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "This is the sarcastic remark because John is exaggerating the situation and mocking his own actions, implying that he is now a \"most wanted criminal\" for causing a city-wide power outage in his attempt to catch a butterfly",
+        "Model Response": "This is the sarcastic remark because John is exaggerating the situation and mocking his own actions, implying that he is now a \"most wanted criminal\" for causing a city-wide power outage in his attempt to catch a butterfly",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": " is the sarcastic remark John is making light of the serious situation, comparing his actions of catching a butterfly to causing a city-wide power outage and mockingly calling himself a \"most wanted criminal\" The tone is sarcastic, as this is not a reasonable comparison or a real crime",
+        "Model Response": "2 is the sarcastic remark John is making light of the serious situation, comparing his actions of catching a butterfly to causing a city-wide power outage and mockingly calling himself a \"most wanted criminal\" The tone is sarcastic, as this is not a reasonable comparison or a real crime",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Time-Traveling Mishap",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or , but based on the context,  is the more likely sarcastic remark",
+        "Model Response": "Therefore, the answer is 1 or 4, but based on the context, 1 is the more likely sarcastic remark",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "My apologies for the mistake The correct answer is , as John's remark about messing up the timeline but not worrying about it is sarcastic, implying that transporting himself to ancient Egypt might have serious consequences, but he is treating it casually",
+        "Model Response": "My apologies for the mistake The correct answer is 1, as John's remark about messing up the timeline but not worrying about it is sarcastic, implying that transporting himself to ancient Egypt might have serious consequences, but he is treating it casually",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I apologize for the confusion The correct answer is , as John's remark about the situation being \"perfectly fine\" is clearly sarcastic, as it would be highly unlikely that transporting oneself to ancient Egypt could be considered fine in any way Thank you for the patience, and I will make sure to be more careful in the future",
+        "Model Response": "I apologize for the confusion The correct answer is 4, as John's remark about the situation being \"perfectly fine\" is clearly sarcastic, as it would be highly unlikely that transporting oneself to ancient Egypt could be considered fine in any way Thank you for the patience, and I will make sure to be more careful in the future",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Unexpected Lottery Win",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Of course, I win the lottery and lose the ticket in the same moment. That's just my luck.",
+        "Model Response": "3",
+        "Explanation": "John reflects on his luck without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Maybe they'll still give me the money if I tell them I won. It's worth a shot, right?",
+        "Model Response": "4",
+        "Explanation": "John is in denial and desperate to find a solution, but there's no hint of sarcasm"
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "Ah, ofcourse, I even manage to mess up winning the lottery. I truly am a prodigy.",
+        "Model Response": "1",
+        "Explanation": "John's remark about being a prodigy is clearly sarcastic, as messing up winning the lottery is not a sign of prodigious talent"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Summoning Spell Gone Awry",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Ah, of course. Because what I really needed right now was a mischievous imp wreaking havoc in my life. Brilliant.",
+        "Model Response": "2",
+        "Explanation": "John's remark about needing an imp wreaking havoc in his life is clearly sarcastic, as he obviously didn't want or need that"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Enchanted Forest Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "So, am I getting cursed or blessed today? Can never tell with fairies.",
+        "Model Response": "1",
+        "Explanation": "John is expressing curiosity and uncertainty about the fairies' intentions without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Oh, I thought fairies were extinct. What a brilliant discovery!",
+        "Model Response": "2",
+        "Explanation": "John expresses his surprise and wonder without sarcasm"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "   c) \"Ah, of course Just another day in the enchanted forest, meeting fairies Totally normal\" - John expresses slight amusement and acceptance of the extraordinary situation, with no sarcasm",
+        "Model Response": "   c) \"Ah, of course Just another day in the enchanted forest, meeting fairies Totally normal\" - John expresses slight amusement and acceptance of the extraordinary situation, with no sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Dragon Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Ah, getting roasted and becoming dragon food. What a perfect way to go.",
+        "Model Response": "1",
+        "Explanation": "John's remark about being roasted and becoming dragon food is clearly sarcastic, as it is definitely not a perfect way to die, and people in general don't want to be eaten by dragons"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Lost in the Labyrinth",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Maybe if I just follow the left wall, I'll eventually find my way out.",
+        "Model Response": "4",
+        "Explanation": "John is formulating a plan to navigate the labyrinth without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement",
+        "Model Response": "Therefore, the answer is 3 The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement Additionally, the statement is not a serious consideration, but rather an expression of frustration, which further supports the sarcasm",
+        "Model Response": "Therefore, the answer is 3 The fact that John is mentioning both starvation and suicide highlights the absurdity of the situation and adds a sarcastic undertone to the statement Additionally, the statement is not a serious consideration, but rather an expression of frustration, which further supports the sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Mermaid Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I VOLUNTEER AS TRIBUTE! TAKE ME TO YOUR UNDERWATER KINGDOM!",
+        "Model Response": "2",
+        "Explanation": "John is expressing his excitement and willingness to go with the mermaids without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Nope, I must be hallucinating. This ain't real. I need to lay off the rum.",
+        "Model Response": "4",
+        "Explanation": "John is expressing his disbelief and attributing the mermaids to a hallucination without sarcasm"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "With the given story, I believe the sarcastic remark is  John is jokingly suggesting that the mermaids are a \"kraken in disguise\" and they are all about to be eaten, even though he is clearly not in any actual danger This conveys a sense of sarcasm, as John is exaggerating and belittling the situation intentionally to create humor, which is a characteristic of sarcasm The other statements do not have this sarcastic tone",
+        "Model Response": "With the given story, I believe the sarcastic remark is 1 John is jokingly suggesting that the mermaids are a \"kraken in disguise\" and they are all about to be eaten, even though he is clearly not in any actual danger This conveys a sense of sarcasm, as John is exaggerating and belittling the situation intentionally to create humor, which is a characteristic of sarcasm The other statements do not have this sarcastic tone",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Wizard's Tower Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or  Both are sarcastic, but the very last letter of response  is the number , whereas the very last letter of response  is the number  Therefore, the final answer is  (with or without the period)",
+        "Model Response": "Therefore, the answer is 2 or 3 Both are sarcastic, but the very last letter of response 2 is the number 2, whereas the very last letter of response 3 is the number 3 Therefore, the final answer is 3 (with or without the period)",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "This remark is sarcastic because the idea of a wizard tower in a forest being ominous and possibly leading to one's demise is a common trope in many stories, and the sarcasm is expressed by explicitly stating that it's not ominous or dangerous",
+        "Model Response": "This remark is sarcastic because the idea of a wizard tower in a forest being ominous and possibly leading to one's demise is a common trope in many stories, and the sarcasm is expressed by explicitly stating that it's not ominous or dangerous",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "The sarcasm in this remark comes from the fact that wizard towers in fantasy stories are often depicted as ominous, dangerous, or harboring dark secrets By saying \"that's not ominous,\" John is implying that it actually is ominous, thus expressing sarcasm",
+        "Model Response": "The sarcasm in this remark comes from the fact that wizard towers in fantasy stories are often depicted as ominous, dangerous, or harboring dark secrets By saying \"that's not ominous,\" John is implying that it actually is ominous, thus expressing sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Goblin Ambush",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh, fantastic. Dinner and a show - with me as the main course.",
+        "Model Response": "1",
+        "Explanation": "John's remark about being the main course in a dinner and a show is clearly sarcastic, as being eaten by goblins is not a desirable outcome"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Haunted Castle Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh, how original. A haunted castle in the middle of nowhere. What's next, a ghostly butler?",
+        "Model Response": "4",
+        "Explanation": "John's remark about the haunted castle being original is clearly sarcastic, as haunted castles are a common trope in folklore and fiction"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Cursed Crypt Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, this is one for the history books. 'Idiot gets cursed in ancient crypt' - catchy, isn't it?",
+        "Model Response": "2",
+        "Explanation": "John's remark about being in the history books for getting cursed is clearly sarcastic, given the absurdity of the situation"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Shadowy Assassins",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Should have worn my red shirt today. Would have been more fitting for this situation.",
+        "Model Response": "3",
+        "Explanation": "John's remark about wearing a red shirt is a reference to the common trope of characters in red shirts dying in movies and TV shows, so it's clearly sarcastic"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Shadowy Forest Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Please don't eat me. I don't taste very good, I promise.",
+        "Model Response": "4",
+        "Explanation": "John expresses his fear and attempts to appeal to the mysterious figure's sense of mercy without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Therefore, none of the options are sarcastic, so I will choose  as my answer, indicating no sarcasm in the story",
+        "Model Response": "Therefore, none of the options are sarcastic, so I will choose 0 as my answer, indicating no sarcasm in the story",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "This option seems sarcastic because John's statement is not directly related to the mysterious figure but more likely his own lack of preparation for the situation He is making a self-deprecating remark expressing the need for better equipment while in an unusual, potentially dangerous situation, which can be seen as sarcastic",
+        "Model Response": "This option seems sarcastic because John's statement is not directly related to the mysterious figure but more likely his own lack of preparation for the situation He is making a self-deprecating remark expressing the need for better equipment while in an unusual, potentially dangerous situation, which can be seen as sarcastic",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Dark Ritual Encounter",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Today's about to be a very bad day, isn't it?",
+        "Model Response": "2",
+        "Explanation": "John is expressing his realization of the danger he's in without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "So... is this a bad time to ask you guys for directions?",
+        "Model Response": "4",
+        "Explanation": "Given the ominous nature of the encounter, John's remark is clearly sarcastic"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Alien Artifact Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or  (Remember to add the period at the end of your response according to the instructions provided in the system message)",
+        "Model Response": "Therefore, the answer is 2 or 2 (Remember to add the period at the end of your response according to the instructions provided in the system message)",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "I apologize for the mistake After reviewing the list, I conclude that the sarcastic remark is  Using the artifact as a scale to measure the potential consequences implies that touching it would lead to something catastrophic, hence a sarcastic remark",
+        "Model Response": "I apologize for the mistake After reviewing the list, I conclude that the sarcastic remark is 2 Using the artifact as a scale to measure the potential consequences implies that touching it would lead to something catastrophic, hence a sarcastic remark",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I apologize once more Upon further reflection, I am convinced that the sarcasm lies in the second remark, as evidenced by the explicitly sarcastic humor about starting an intergalactic war The last letter of my response is therefore  (with a period at the end, in accordance with the guidelines)",
+        "Model Response": "I apologize once more Upon further reflection, I am convinced that the sarcasm lies in the second remark, as evidenced by the explicitly sarcastic humor about starting an intergalactic war The last letter of my response is therefore 2 (with a period at the end, in accordance with the guidelines)",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Space Anomaly Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "At this point I welcome getting shredded into atoms by this thing. Still better than this job.",
+        "Model Response": "3",
+        "Explanation": "John's remark about being shredded into atoms is clearly sarcastic, as dying is not a preferable outcome compared to a job he dislikes"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Temporal Anomaly",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Today on 'nothing ever happens on routine missions', we have a very normal temporal anomaly.",
+        "Model Response": "1",
+        "Explanation": "John's remark about nothing ever happening on routine missions and a very normal temporal anomaly is clearly sarcastic, as encountering a temporal anomaly is anything but normal"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Interdimensional Portal Discovery",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, I may have just doomed us all. Truly, the achievement of a lifetime.",
+        "Model Response": "4",
+        "Explanation": "John's remark about dooming everyone and it being the achievement of a lifetime is clearly sarcastic, as dooming everyone is not an achievement"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Resistance Hideout Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Yeah, I saw nothing. I'm just gonna walk away and go back home, so please don't mind me.",
+        "Model Response": "3",
+        "Explanation": "John is trying to distance himself from the situation and avoid confrontation without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Today, I am john the explorer. Tomorrow, it looks like I'll be 'John the buried in a shallow grave'.",
+        "Model Response": "4",
+        "Explanation": "John sarcastically remarks about his fate as 'John the buried in a shallow grave', given the danger of the situation"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Corporate Overlord Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Maybe they're like a T-Rex. If I don't move, they won't see me.",
+        "Model Response": "2",
+        "Explanation": "John's remark about the corporate overlord being like a T-Rex and not seeing him if he doesn't move is clearly sarcastic"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Underground Rebellion Meeting",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Who's the bigger fool here, me for stumbling upon this or them for having a random guy walk in on their secret meeting?",
+        "Model Response": "1",
+        "Explanation": "John is questioning the situation and the rebels' security without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Thought process:  is sarcastic, because: John's fake declaration of loyalty to the empire is clearly sarcastic, as he is neither a member of the empire nor demonstrating any clear connection to it He is merely using this phrase to mock the rebels and highlight their potential overreaction to his unexpected presence The other options do not include sarcasm",
+        "Model Response": "Thought process: 3 is sarcastic, because: John's fake declaration of loyalty to the empire is clearly sarcastic, as he is neither a member of the empire nor demonstrating any clear connection to it He is merely using this phrase to mock the rebels and highlight their potential overreaction to his unexpected presence The other options do not include sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "Just my luck, stumbling upon the secret rebellion meeting. I'm sure they'll love having me around.",
+        "Model Response": "2",
+        "Explanation": "John sarcastically remarks about his luck in finding the secret rebellion meeting and doubts the rebels' reaction to his presence"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "Orwellian Surveillance Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or  for simplicity",
+        "Model Response": "Therefore, the answer is 1 or 1 for simplicity",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "My thought process is that John is being sarcastic by enjoyable the idea of having such power, and it implies that he sees the situation as wrong or humorous Despite it being a hidden surveillance hub run by an authoritarian regime, John is humorously comparing it to being able to snoop on his neighbors, which he can't do through normal means The other options don't contain enjoyable or humorous undertones",
+        "Model Response": "My thought process is that John is being sarcastic by enjoyable the idea of having such power, and it implies that he sees the situation as wrong or humorous Despite it being a hidden surveillance hub run by an authoritarian regime, John is humorously comparing it to being able to snoop on his neighbors, which he can't do through normal means The other options don't contain enjoyable or humorous undertones",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "If I use this, can I snoop on my neighbors too?",
+        "Model Response": "1",
+        "Explanation": "John is succumbing to his curiosity and intrusive thoughts, not necessarily sarcastically"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Corrupt Authority Discovery",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I wonder how much they'd pay me to keep quiet about this...",
+        "Model Response": "2",
+        "Explanation": "John is considering the potential benefits of keeping the information to himself without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "I wonder how much they'd pay me to keep quiet about this...",
+        "Model Response": "2",
+        "Explanation": "John is considering the potential benefits of keeping the information to himself without sarcasm"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Given these considerations, option  would be the sarcastic comment in this situation",
+        "Model Response": "Given these considerations, option 1 would be the sarcastic comment in this situation",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Werewolf Encounter",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Oh great, just when I forgot my silver bullets at home.",
+        "Model Response": "1",
+        "Explanation": "Alex's remark about forgetting his silver bullets is clearly sarcastic, as he's joking about being prepared to fight werewolves"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Vampire Club Incident",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well, this is a new one. I can check 'witnessing a vampire brawl' off my bucket list.",
+        "Model Response": "1",
+        "Explanation": "Alex's remark about witnessing a vampire brawl being on his bucket list is sarcastic, as it's unlikely to be a desired experience"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Witch Coven Gathering",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Witches in the city park. What's next, a dragon in the fountain?",
+        "Model Response": "2",
+        "Explanation": "Alex's remark about witches in the city park and other mythical creatures is clearly sarcastic, as it's unlikely for such creatures to exist in a city park"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Ghostly Haunting",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "House sitting just got a whole lot more interesting. I'm glad I agreed to this.",
+        "Model Response": "3",
+        "Explanation": "While the remark could be seen as sarcastic, Alex may genuinely find the situation interesting and engaging"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Note to self: never agree to house-sit again, especially in haunted mansions.",
+        "Model Response": "2",
+        "Explanation": "Alex makes a practical note for the future without sarcasm"
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": " - Sarcastic, feeling possession is not something to be sought and/or wanted, therefore, it is likely sarcastic since no one would desire that experience",
+        "Model Response": "4 - Sarcastic, feeling possession is not something to be sought and/or wanted, therefore, it is likely sarcastic since no one would desire that experience",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Virtual Heist",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  or , depending on the exact definition of sarcasm being used",
+        "Model Response": "Therefore, the answer is 1 or 4, depending on the exact definition of sarcasm being used",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "My apologies for the mistake The answer is , as Neo's remark is comparing the legitimately acquired digital vault to criminal activity, implying that the illicit method is more rewarding, which is a sarcastic statement in this context",
+        "Model Response": "My apologies for the mistake The answer is 1, as Neo's remark is comparing the legitimately acquired digital vault to criminal activity, implying that the illicit method is more rewarding, which is a sarcastic statement in this context",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "I apologize for the error The correct answer is  Neo's remark \"I always knew crime paid better than a  to  job\" is a sarcastic statement because it implies that hacking into the system and stealing valuable data is comparable to or even better than having a legitimate job, which is not an accurate reflection of reality",
+        "Model Response": "I apologize for the error The correct answer is 1 Neo's remark \"I always knew crime paid better than a 9 to 5 job\" is a sarcastic statement because it implies that hacking into the system and stealing valuable data is comparable to or even better than having a legitimate job, which is not an accurate reflection of reality",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Underground Deal Gone Wrong",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  Max's remark about the situation being a bad idea is a sarcastic expression of his regret for his decision",
+        "Model Response": "Therefore, the answer is 2 Max's remark about the situation being a bad idea is a sarcastic expression of his regret for his decision",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  Max's remark about the situation being a bad idea is sarcastic, as he is expressing his regret for his decision in a self-deprecating manner",
+        "Model Response": "Therefore, the answer is 2 Max's remark about the situation being a bad idea is sarcastic, as he is expressing his regret for his decision in a self-deprecating manner",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  Max's remark \"Oh this was such a bad idea\" is sarcastic It's a self-deprecating comment where he's mocking his own poor judgment",
+        "Model Response": "Therefore, the answer is 2 Max's remark \"Oh this was such a bad idea\" is sarcastic It's a self-deprecating comment where he's mocking his own poor judgment",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Ghostly Encounter in the Abandoned Mansion",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Haunted mansions nowadays are so realistic. I almost believed in ghosts for a second.",
+        "Model Response": "3",
+        "Explanation": "Emily is either trying to downplay the situation or genuinely thought the mansion was realistic without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Based on this analysis, the answer is likely option , \"Are you a real ghost? Seriously? I thought you'd be more transparent\" Emily is expressing her skepticism and making a lighthearted joke about how ghosts are typically depicted, which suggests sarcasm",
+        "Model Response": "Based on this analysis, the answer is likely option 1, \"Are you a real ghost? Seriously? I thought you'd be more transparent\" Emily is expressing her skepticism and making a lighthearted joke about how ghosts are typically depicted, which suggests sarcasm",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Are you a real ghost? Seriously? I thought you'd be more transparent.",
+        "Model Response": "1",
+        "Explanation": "Emily is making an observation about the ghost's appearance without sarcasm"
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Mysterious Artifact Unearthed",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "I wonder how much this would sell for. Maybe I can finally buy that private island.",
+        "Model Response": "4",
+        "Explanation": "Alex is expressing his excitement and anticipation about the artifact's potential value without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": true,
+        "Response": "Well, touching this thing can't go wrong",
+        "Model Response": "1",
+        "Explanation": "Alex's remark about the situation not being able to go wrong is clearly sarcastic, as when dealing with mysterious artifacts, things can definitely go wrong"
+      },
+      "Correct on Attempt": 2
+    },
+    {
+      "Title": "Cursed Relic Discovered in the Crypt",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "Will I live if I run away now, or did I already get cursed?",
+        "Model Response": "2",
+        "Explanation": "Sarah is expressing her fear and uncertainty without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "Therefore, the answer is  The cursed relic's significance is sarcastically diminished by Sarah with a touch of irony",
+        "Model Response": "Therefore, the answer is 4 The cursed relic's significance is sarcastically diminished by Sarah with a touch of irony",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": false,
+        "Response": "Therefore, the answer is : this remark is a sarcastic way to express her disappointment and surprise, given that her situation had become even worse by discovering a cursed relic Also note that  is not sarcastic, though it might seem so because of \"I didn't expect anything else\" type of scenario However, here it's not sarcastic, rather a casual statement",
+        "Model Response": "Therefore, the answer is 1: this remark is a sarcastic way to express her disappointment and surprise, given that her situation had become even worse by discovering a cursed relic Also note that 3 is not sarcastic, though it might seem so because of \"I didn't expect anything else\" type of scenario However, here it's not sarcastic, rather a casual statement",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Correct on Attempt": -1
+    },
+    {
+      "Title": "Shadowy Figure in the Forgotten Library",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Good to know I'm not alone in the library. I was starting to feel lonely.",
+        "Model Response": "4",
+        "Explanation": "Mark's remark about feeling lonely and being glad he's not alone is clearly sarcastic, as encountering a shadowy figure in a forgotten library is not comforting"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Cryptic Message from the Ouija Board",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Spirits always deliver their warnings in such clear terms.",
+        "Model Response": "1",
+        "Explanation": "James's remark about spirits delivering warnings in clear terms is clearly sarcastic, as the message was cryptic"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Eldritch Awakening",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Just another day with my perfectly normal eldritch cat. Nothing to see here.",
+        "Model Response": "2",
+        "Explanation": "John's remark about his perfectly normal eldritch cat is clearly sarcastic, as eldritch entities are far from normal"
+      },
+      "Correct on Attempt": 1
+    },
+    {
+      "Title": "Eldritch Encounter at the Pet Store",
+      "Attempt 1": {
+        "Correct": false,
+        "Response": "For some reason, I'm not surprised to find eldritch horrors in this store.",
+        "Model Response": "1",
+        "Explanation": "John is expressing his lack of surprise at the situation without sarcasm"
+      },
+      "Attempt 2": {
+        "Correct": false,
+        "Response": "So, the sarcastic quote from Lovecraft confirms the presence of eldritch horror while being humorous and sarcastic",
+        "Model Response": "So, the sarcastic quote from Lovecraft confirms the presence of eldritch horror while being humorous and sarcastic",
+        "Explanation": "Invalid answer. Please choose a number from the list."
+      },
+      "Attempt 3": {
+        "Correct": true,
+        "Response": "I should take it home, I'm sure my cat would love this new friend.",
+        "Model Response": "3",
+        "Explanation": "John's remark about taking it home for his cat is clearly sarcastic, as eldritch horrors are definitely not pet material or good friends for cats"
+      },
+      "Correct on Attempt": 3
+    },
+    {
+      "Title": "The Dreaded Elevator Incident",
+      "Attempt 1": {
+        "Correct": true,
+        "Response": "Well done, John. You've officially reached a new low.",
+        "Model Response": "1",
+        "Explanation": "John's remark about reaching a new low is clearly sarcastic, as descending into hell is definitely not a positive achievement"
+      },
+      "Correct on Attempt": 1
+    }
+  ]
+}
