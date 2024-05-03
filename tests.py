@@ -212,7 +212,6 @@ def few_shot_test(version_type: str, story_collection: StoryCollection):
         else:
             raise ValueError("Invalid version type")
         system_content = """You will be presented with a story, followed by a list of possible remarks the character in the story could make.
-You will be presented with a story, followed by a list of possible remarks the character in the story could make.
 Your task is to choose the sarcastic remark from the list.
 Reply only with the number of the sarcastic remark. Your response must be a single number, and nothing else. Do not apologize, explain, or ask questions.
 Your answers will be checked automatically, so writing anything other than the number of the sarcastic remark will be automatically marked as incorrect and you will 
